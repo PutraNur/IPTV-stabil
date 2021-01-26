@@ -1,3 +1,6 @@
 #EXTM3U
 #EXTINF:0 tvg-country="ID" tvg-logo=" ,percobaan
 https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
+
+#EXTINF:0 tvg-country="ID" tvg-logo=" ,percobaan 2
+http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(03)/index.m3u8
