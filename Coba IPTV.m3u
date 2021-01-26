@@ -1,6 +1,9 @@
 #EXTM3U
-#EXTINF:0 tvg-country="ID" tvg-logo=" ,percobaan
-http://118.97.50.107/Content/HLS/Live/Channel(TVRIJABARBANDUNG)/Stream(03)/index.m3u8?checkedby:hlscat.com
-
-#EXTINF:0 tvg-country="ID" tvg-logo=" ,percobaan 2
-http://118.97.50.107/Content/HLS/Live/Channel(TVRIJABARBANDUNG)/Stream(03)/index.m3u8?checkedby:hlscat.com
+#EXTINF:-1,iptvtools_66
+http://122.248.43.138:1935/ch11/myStream/live.m3u8
+#EXTINF:-1,iptvtools_67
+http://122.248.43.138:1935/ch3/myStream/live.m3u8
+#EXTINF:-1,iptvtools_68
+http://122.248.43.138:1935/ch10/myStream/live.m3u8
+#EXTINF:-1,iptvtools_69
+http://122.248.43.138:1935/ch9/myStream/live.m3u8
