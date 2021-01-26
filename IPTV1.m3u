@@ -98,5 +98,15 @@ http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIKALSELBAN
 33)	#EXTINF:0 tvg-country="ID" tvg-logo, INDOSIAR
 http://45.126.83.51/qwr9ew/s/s04/index.m3u8
 
-34)	#EXTINF:0 tvg-country="ID" tvg-logo, NET TV
+34)	#EXTINF:0 tvg-country="ID" tvg-logo, SCTV
+http://rr2.dens.tv/s/s03/index2.m3u8
+
+
+35)	#EXTINF:0 tvg-country="ID" tvg-logo, NET TV
 http://45.126.83.51/qwr9ew/s/s08/01.m3u8
+
+36)	#EXTINF:0 tvg-country="ID" tvg-logo, ANTV
+http://210.210.155.35/qwr9ew/s/s07/index1.m3u8
+
+37)	#EXTINF:0 tvg-country="ID" tvg-logo, METRO TV
+http://rr.dens.tv/h/h12/index.m3u8
