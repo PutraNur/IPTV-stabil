@@ -9,9 +9,6 @@ http://cdn1.live.irib.ir:1935/channel-live/smil:varzesh.smil/chunklist_b307200_s
 #EXTINF:0 tvg-country="ID" tvg-logo="https://m3u-editor.com/storage/channel-logos/07cd9d90-3cc5-11ea-9aa8-0b5bd3ba261d/92697/14040323.png" group-title="News",BeritaSatu
 https://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8?checkedby:iptvcat.com
 
-#EXTINF:0 tvg-country="ID" tvg-logo="https://m3u-editor.com/storage/channel-logos/07cd9d90-3cc5-11ea-9aa8-0b5bd3ba261d/92697/14040323.png" group-title="News",BeritaSatu
-http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/playlist.m3u8?checkedby:iptvcat.com
-
 #EXTINF:0 tvg-country="ID" tvg-logo="" group-title="Undefined",CARTOON NETWORK
 http://136.243.177.164/CARTOONNETWORK/playlist.m3u8?checkedby:iptvcat.com
 
@@ -83,5 +80,3 @@ http://118.97.50.107/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(04)/index.m3u
 
 #EXTINF:0 tvg-country="ID" tvg-logo="" group-title="Local",TVRI Yogyakarta
 http://118.97.50.107/Content/HLS/Live/Channel(TVRIYOGYAKARTA)/index.m3u8?checkedby:iptvcat.com
-
-
