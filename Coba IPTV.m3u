@@ -1,5 +1,5 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://i.ibb.co/chJ4Bk8/indonesia.png" group-title="INDONESIA",Tv One (1)
 http://103.47.132.165/PLTV/88888888/224/3221227213/2.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/chJ4Bk8/indonesia.png" group-title="INDONESIA",Tv One (2)
-https://www.vidio.com/live/875-net-tv/
+#EXTINF:-1 tvg-logo="https://i.ibb.co/chJ4Bk8/indonesia.png" group-title="INDONESIA",net (2)
+https://cdn10jtedge.useetv.com/joss/15/net/chunklist_w109702602_b1344100_sleng.m3u8
