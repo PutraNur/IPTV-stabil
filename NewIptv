@@ -1,0 +1,10 @@
+#EXTM3U
+#EXTINF:-1, tvg-id="TRANS TV"tvg-name="TRANS TV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_transtv_small1.png",TransTV
+https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
+ 
+#EXTINF:-2, tvg-id="ANTV"tvg-name="ANTV ID" tvg-logo="https://i.ibb.co/tpdTH3m/antvlogo.png",ANTV INDONESIA
+http://210.210.155.35:80/qwr9ew/s/s07/01.m3u8
+
+#EXTINF:-3, tvg-id="INDOSIAR"tvg-name="INDOSIAR" tvg-logo="https://www.useetv.com/assets/images/channel/logo_indosiar_small1.png",Indosiar
+https://liveanevia.mncnow.id/live/eds/INDOSIAR-ryzen/sa_hls/index.m3u8
+
