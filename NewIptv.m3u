@@ -1,13 +1,55 @@
-#EXTM3U
-#EXTINF:-1, tvg-id="TRANS TV"tvg-name="TRANS TV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_transtv_small1.png",TransTV
+#EXTM3U                 \\#EXTINF:1 tvg-id=""tvg-name="" tvg-logo="",
+#EXTINF:1 tvg-id="TRANS TV"tvg-name="TRANS TV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_transtv_small1.png",TransTV
 https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
-#EXTINF:-2, tvg-id="ANTV"tvg-name="ANTV ID" tvg-logo="https://i.ibb.co/tpdTH3m/antvlogo.png",ANTV INDONESIA
+#EXTINF:2 tvg-id="ANTV"tvg-name="ANTV" tvg-logo="https://i.ibb.co/tpdTH3m/antvlogo.png",ANTV
 http://210.210.155.35:80/qwr9ew/s/s07/01.m3u8
-#EXTINF:-3, tvg-id="INDOSIAR"tvg-name="INDOSIAR" tvg-logo="https://www.useetv.com/assets/images/channel/logo_indosiar_small1.png",Indosiar
+#EXTINF:3 tvg-id="TVRI Nasional"tvg-name="TVRI Nasional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/1200px-TVRILogo2019.svg.png" ,TVRI Nasional
+http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(04)/index.m3u8
+#EXTINF:4 tvg-id="INDOSIAR"tvg-name="INDOSIAR" tvg-logo="https://www.useetv.com/assets/images/channel/logo_indosiar_small1.png",Indosiar
 https://liveanevia.mncnow.id/live/eds/INDOSIAR-ryzen/sa_hls/index.m3u8
-#EXTINF:-4, tvg-id="RCTI"tvg-name="RCTI" tvg-logo="https://i.postimg.cc/x8vJbLyK/download-81.png,RCTI
-https://visionplus-stream.visionplus.id/live/eds/RCTI-Indonesia/sa_hls/RCTI-Indonesia.m3u8
-#EXTINF:-5, tvg-id="MNCTV"tvg-name="MNCTV" tvg-logo="https://i.postimg.cc/66fpn6xL/download-2021-09-06-T023906-601.jpg",MNCTV
-https://visionplus-stream.visionplus.id/live/eds/MNCTV-Merdeka/sa_hls/MNCTV-Merdeka.m3u8
-#EXTINF:-6, tvg-id="SCTI"tvg-name="SCTV" tvg-logo="https://i.postimg.cc/W1vRngmd/download-2021-09-06-T024529-000.jpg", SCTV
+#EXTINF:5 tvg-id="RCTI"tvg-name="RCTI" tvg-logo="https://i.postimg.cc/x8vJbLyK/download-81.png",RCTI
+https://vcdn2.rctiplus.id/live/eds/rcti_fta/live_fta/rcti_fta-avc1_1537200=7-mp4a_64000_eng=2.m3u8
+#EXTINF:6 tvg-id="MNCTV"tvg-name="MNCTV" tvg-logo="https://i.postimg.cc/66fpn6xL/download-2021-09-06-T023906-601.jpg",MNCTV
+https://vcdn2.rctiplus.id/live/eds/mnctv_fta/live_fta/mnctv_fta-avc1_1537200=6-mp4a_64000_eng=2.m3u8
+#EXTINF:7 tvg-id="SCTV"tvg-name="SCTV" tvg-logo="https://i.postimg.cc/W1vRngmd/download-2021-09-06-T024529-000.jpg",SCTV
 http://nonton.wap.sh/id/009.m3u8
+#EXTINF:8 tvg-id="GTV"tvg-name="GTV" tvg-logo="https://i.postimg.cc/Y0ZnhKR4/download-2021-09-06-T024124-472.jpg",GTV
+https://visionplus-stream.visionplus.id/live/eds/GTV-Perjuangan/sa_hls/GTV-Perjuangan.m3u8
+#EXTINF:9 tvg-id="TVONE"tvg-name="TVONE" tvg-logo="https://www.mncvision.id/userfiles/image/channel/tvone.png",TVONE
+https://liveanevia.mncnow.id/live/eds/TVONE-Decepticon/sa_hls/index.m3u8
+#EXTINF:10 tvg-id="Metro TV"tvg-name="Metro TV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_metrotv_small1.png",Metro TV
+https://liveanevia.mncnow.id/live/eds/MetroTV-RTX/sa_hls/index.m3u8
+#EXTINF:11 tvg-id="TRANS 7"tvg-name="TRANS 7" tvg-logo="https://www.useetv.com/assets/images/channel/logo_trans7_small1.png",TRANS 7
+https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
+#EXTINF:12 tvg-id="NET TV"tvg-name="NET TV" tvg-logo="https://i.postimg.cc/rmQqwW9x/download-63.png",NET TV
+http://45.126.83.51:80/session/9a1333a4-93cd-11ea-ac63-966cac0014e4/qwr9ew/s/s08/01.m3u8
+#EXTINF:13 tvg-id="iNEWS TV"tvg-name="iNEWS TV" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_83.png",iNEWS TV
+https://liveanevia.mncnow.id/live/eds/InewsTV-Agustus/sa_hls/index.m3u8
+#EXTINF:14 tvg-id="BOOMERANG"tvg-name="BOOMERANG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Boomerang_2014_logo.svg/1200px-Boomerang_2014_logo.svg.png",BOOMERANG
+http://198.16.106.62:8278/streams/d/Boomerang/playlist.m3u8
+#EXTINF:15 tvg-id="Cartoon Network"tvg-name="Cartoon Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/1200px-Cartoon_Network_2010_logo.svg.png",Cartoon Network
+http://198.16.106.62:8278/streams/d/Cn/playlist.m3u8
+#EXTINF:16 tvg-id="Blue Ant Entertaiment"tvg-name="Blue Ant Entertaiment" tvg-logo="https://i.postimg.cc/ydsh330j/images-7.png",Blue Ant Entertaiment
+http://vips-livecdn.fptplay.net/hda1/blueantent_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:17 tvg-id="Blue Ant Entertaiment"tvg-name="Blue Ant Entertaiment" tvg-logo="https://i.postimg.cc/s29DxMj3/images-6.png",Blue Ant Extreme
+http://vips-livecdn.fptplay.net/hda1/blueantext_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:18 tvg-id="NHK World Japan"tvg-name="NHK World Japan" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/NHK_World.svg/1920px-NHK_World.svg.png",NHK World Japan
+https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_1M.m3u8
+#EXTINF:19 tvg-id="KBS World"tvg-name="KBS World" tvg-logo="https://i.ibb.co/2sLJBHR/KBS.png",KBS World
+https://m3u-editor.com/serve/1f5c2f00-c50a-11eb-a9cf-49fb7da8769f/309066025
+#EXTINF:20 tvg-id="Berita Satu"tvg-name="Berita Satu" tvg-logo="https://img2.pngdownload.id/20180806/wax/kisspng-beritasatu-com-logo-beritasatu-media-holdings-news-kumpulan-berita-harian-bisnis-ekonomi-terkini-5b687d0c685ac2.7574988515335744124274.jpg",Berita Satu
+https://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8
+#EXTINF:21 tvg-id="Nickelodeon"tvg-name="Nickelodeon" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLQSgQIli3EIzikFi_XPaTZyObTMCh6uHDekVo3oQQ=s900-c-k-c0x00ffffff-no-rj",Nickelodeon
+http://198.16.106.62:8278/streams/d/Nickelodeon/playlist.m3u8
+#EXTINF:22 tvg-id="Nick Junior"tvg-name="Nick Junior" tvg-logo="https://i.imgur.com/7imquVM.png",Nick Junior
+http://198.16.106.62:8278/streams/d/Nickjr/playlist.m3u8
+#EXTINF:23 tvg-id="CNN Indonesia"tvg-name="CNN Indonesia" tvg-logo="https://cdn.cnnindonesia.com/cnnid/images/logo_cnn_fav.png?v=10.1.9",CNN Indonesia
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w2136674526_b384000_sleng.m3u8
+#EXTINF:24 tvg-id="CNBC Indonesia"tvg-name="CNBC Indonesia" tvg-logo="https://cdn.cnbcindonesia.com/cnbc/images/logo_hitam.png?w=650",CNBC Indonesia
+https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_kamiselaluada_b384000_sleng.m3u8
+#EXTINF:25 tvg-id="CNN Internasional"tvg-name="CNN Internasional" tvg-logo="https://cdn.cnn.com/cnn/.e/img/3.0/global/misc/cnn-logo.png",CNN Internasional
+https://cnn-cnninternational-1-de.samsung.wurl.com/manifest/playlist_1280x720_3000k.m3u8
+#EXTINF:26 tvg-id="MTV"tvg-name="MTV" tvg-logo="https://pbs.twimg.com/profile_images/1437671232233775109/8_yECR_p_400x400.png",MTV
+http://89.17.204.38/ch278/index.m3u8
+#EXTINF:27 tvg-id="TVRI Kanal 3"tvg-name="TVRI Kanal 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/1200px-TVRILogo2019.svg.png",TVRI Kanal 3
+http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI3)/Stream(03)/index.m3u8
