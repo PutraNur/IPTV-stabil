@@ -7,4 +7,5 @@ http://210.210.155.35:80/qwr9ew/s/s07/01.m3u8
 https://liveanevia.mncnow.id/live/eds/INDOSIAR-ryzen/sa_hls/index.m3u8
 #EXTINF:-4, tvg-id="RCTI"tvg-name="RCTI" tvg-logo="https://i.postimg.cc/x8vJbLyK/download-81.png,RCTI
 https://visionplus-stream.visionplus.id/live/eds/RCTI-Indonesia/sa_hls/RCTI-Indonesia.m3u8
-
+#EXTINF:-5, tvg-id="MNC TV.id"tvg-name="MNC TV.ID" tvg-logo="https://i.postimg.cc/66fpn6xL/download-2021-09-06-T023906-601.jpg",MNC INDONESIA
+https://visionplus-stream.visionplus.id/live/eds/MNCTV-Merdeka/sa_hls/MNCTV-Merdeka.m3u8
