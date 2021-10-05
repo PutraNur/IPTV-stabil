@@ -53,15 +53,15 @@ https://cnn-cnninternational-1-de.samsung.wurl.com/manifest/playlist_1280x720_30
 http://89.17.204.38/ch278/index.m3u8
 #EXTINF:27 tvg-id="TVRI Kanal 3"tvg-name="TVRI Kanal 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/1200px-TVRILogo2019.svg.png",TVRI Kanal 3
 http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI3)/Stream(03)/index.m3u8
-#EXTINF:29 tvg-id="JTV"tvg-name="JTV" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/8/8e/JTV_%282012%29.svg/1200px-JTV_%282012%29.png",JTV
+#EXTINF:28 tvg-id="JTV"tvg-name="JTV" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/8/8e/JTV_%282012%29.svg/1200px-JTV_%282012%29.png",JTV
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=6ea9ab1baa0efb9e19094440c317e21b268ef7e5a44f541a7cbde7626ef57566
-#EXTINF:30 tvg-id="Kompas TV"tvg-name="Kompas TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/archive/7/7a/20190116042347%21KOMPAS_TV_%282017%29.png",Kompas TV
+#EXTINF:29 tvg-id="Kompas TV"tvg-name="Kompas TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/archive/7/7a/20190116042347%21KOMPAS_TV_%282017%29.png",Kompas TV
 http://210.210.155.35:80/qwr9ew/s/s104/02.m3u8
-#EXTINF:31 tvg-id="Spacetoon"tvg-name="Spacetoon" tvg-logo="https://upload.wikimedia.org/wikipedia/id/e/e3/Spacetoon.png",Spacetoon
+#EXTINF:30 tvg-id="Spacetoon"tvg-name="Spacetoon" tvg-logo="https://upload.wikimedia.org/wikipedia/id/e/e3/Spacetoon.png",Spacetoon
 http://stream1.ninmedia.tv:1935/spacetoon/udp.stream_360p/playlist.m3u8
-#EXTINF:32 tvg-id="ESPN HD"tvg-name="ESPN HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/Espn.png",ESPN HD
+#EXTINF:31 tvg-id="ESPN HD"tvg-name="ESPN HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/Espn.png",ESPN HD
 http://xcui.vitvabc.xyz:8880/287994000027/287994000027/31149?checkedby:iptvcat.com
-#EXTINF:33 tvg-id="Animax ID"tvg-name="Animax ID" tvg-logo="https://i.postimg.cc/HktrDZSX/logo-animax-big.png",Animax ID
+#EXTINF:32 tvg-id="Animax ID"tvg-name="Animax ID" tvg-logo="https://i.postimg.cc/HktrDZSX/logo-animax-big.png",Animax ID
 http://playlist.urfan.web.id/dr9445/h/h144/01.m3u8
-#EXTINF:34 tvg-id="RTV"tvg-name="RTV" tvg-logo="https://id.wikipedia.org/wiki/Berkas:Rajawali_Televisi.svg#/media/Berkas:Rajawali_Televisi.png",RTV
+#EXTINF:33 tvg-id="RTV"tvg-name="RTV" tvg-logo="https://id.wikipedia.org/wiki/Berkas:Rajawali_Televisi.svg#/media/Berkas:Rajawali_Televisi.png",RTV
 http://210.210.155.35:80/qwr9ew/s/s12/02.m3u8?app_type=mobile&userid=2m4n6yjvyen-&tkn=1U7A426J3DXLYES3U4V7KSIJCJXYR1YF&chname=RTV
