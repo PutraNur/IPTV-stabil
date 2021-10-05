@@ -1,4 +1,5 @@
-#EXTM3U                 // #EXTINF:1 tvg-id=""tvg-name="" tvg-logo="",
+ //#EXTINF:0 tvg-id=""tvg-name="" tvg-logo="",
+#EXTM3U
 #EXTINF:1 tvg-id="TRANS TV"tvg-name="TRANS TV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_transtv_small1.png",TransTV
 https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
 #EXTINF:2 tvg-id="ANTV"tvg-name="ANTV" tvg-logo="https://i.ibb.co/tpdTH3m/antvlogo.png",ANTV
@@ -53,7 +54,9 @@ https://cnn-cnninternational-1-de.samsung.wurl.com/manifest/playlist_1280x720_30
 http://89.17.204.38/ch278/index.m3u8
 #EXTINF:27 tvg-id="TVRI Kanal 3"tvg-name="TVRI Kanal 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/1200px-TVRILogo2019.svg.png",TVRI Kanal 3
 http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI3)/Stream(03)/index.m3u8
-#EXTINF:29 tvg-id="JTV"tvg-name="JTV" tvg-logo="http://202.74.236.189/~uzbwkzam/img/jtv.png",JTV
+#EXTINF:29 tvg-id="JTV"tvg-name="JTV" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/8/8e/JTV_%282012%29.svg/1200px-JTV_%282012%29.png",JTV
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=6ea9ab1baa0efb9e19094440c317e21b268ef7e5a44f541a7cbde7626ef57566
 #EXTINF:30 tvg-id="Kompas TV"tvg-name="Kompas TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/archive/7/7a/20190116042347%21KOMPAS_TV_%282017%29.png",Kompas TV
 http://210.210.155.35:80/qwr9ew/s/s104/02.m3u8
+#EXTINF:31 tvg-id="Spacetoon"tvg-name="Spacetoon" tvg-logo="https://upload.wikimedia.org/wikipedia/id/e/e3/Spacetoon.png",Spacetoon
+http://stream1.ninmedia.tv:1935/spacetoon/udp.stream_360p/playlist.m3u8
