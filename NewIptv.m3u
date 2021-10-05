@@ -15,7 +15,7 @@ https://vcdn2.rctiplus.id/live/eds/mnctv_fta/live_fta/mnctv_fta-avc1_1537200=6-m
 #EXTINF:7 tvg-id="SCTV"tvg-name="SCTV" tvg-logo="https://i.postimg.cc/W1vRngmd/download-2021-09-06-T024529-000.jpg",SCTV
 http://nonton.wap.sh/id/009.m3u8
 #EXTINF:8 tvg-id="GTV"tvg-name="GTV" tvg-logo="https://i.postimg.cc/Y0ZnhKR4/download-2021-09-06-T024124-472.jpg",GTV
-https://visionplus-stream.visionplus.id/live/eds/GTV-Perjuangan/sa_hls/GTV-Perjuangan.m3u8
+https://vcdn2.rctiplus.id/live/eds/gtv_fta/live_fta/gtv_fta-avc1_1537200=6-mp4a_64000_eng=2.m3u8
 #EXTINF:9 tvg-id="TVONE"tvg-name="TVONE" tvg-logo="https://www.mncvision.id/userfiles/image/channel/tvone.png",TVONE
 https://liveanevia.mncnow.id/live/eds/TVONE-Decepticon/sa_hls/index.m3u8
 #EXTINF:10 tvg-id="Metro TV"tvg-name="Metro TV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_metrotv_small1.png",Metro TV
@@ -60,3 +60,7 @@ http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c
 http://210.210.155.35:80/qwr9ew/s/s104/02.m3u8
 #EXTINF:31 tvg-id="Spacetoon"tvg-name="Spacetoon" tvg-logo="https://upload.wikimedia.org/wikipedia/id/e/e3/Spacetoon.png",Spacetoon
 http://stream1.ninmedia.tv:1935/spacetoon/udp.stream_360p/playlist.m3u8
+#EXTINF:32 tvg-id="ESPN HD"tvg-name="ESPN HD" tvg-logo="Dimas kay https://imgur.com/gallery/ceU4rq0",ESPN HD
+http://xcui.vitvabc.xyz:8880/287994000027/287994000027/31149?checkedby:iptvcat.com
+#EXTINF:33 tvg-id="BBC WORLD NEWS"tvg-name="BBC WORLD NEWS" tvg-logo="http://masmiri.50webs.com/BBC.png",BBC WORLD NEWS
+http://1111296894.rsc.cdn77.org/LS-ATL-54548-6/index.m3u8
