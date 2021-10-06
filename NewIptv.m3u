@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/astro.com.my.guide.xml,https://iptv-org.github.io/epg/guides/mncvision.id.guide.xml"                         //#EXTINF:0 tvg-id=""tvg-name="" tvg-logo="",
+#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/mncvision.id.guide.xml,https://iptv-org.github.io/epg/guides/vidio.com.guide.xml"
 #EXTINF:1 tvg-id="TransTV.id"tvg-name="TRANS TV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_transtv_small1.png",TransTV
 https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
 #EXTINF:2 tvg-id="ANTV.id"tvg-name="ANTV" tvg-logo="https://i.ibb.co/tpdTH3m/antvlogo.png",ANTV
