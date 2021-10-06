@@ -1,11 +1,11 @@
 #EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/astro.com.my.guide.xml,https://iptv-org.github.io/epg/guides/mncvision.id.guide.xml"                         //#EXTINF:0 tvg-id=""tvg-name="" tvg-logo="",
-#EXTINF:1 tvg-id="TRANS TV"tvg-name="TRANS TV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_transtv_small1.png",TransTV
+#EXTINF:1 tvg-id="TransTV.id"tvg-name="TRANS TV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_transtv_small1.png",TransTV
 https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
-#EXTINF:2 tvg-id="ANTV"tvg-name="ANTV" tvg-logo="https://i.ibb.co/tpdTH3m/antvlogo.png",ANTV
+#EXTINF:2 tvg-id="ANTV.id"tvg-name="ANTV" tvg-logo="https://i.ibb.co/tpdTH3m/antvlogo.png",ANTV
 http://210.210.155.35:80/qwr9ew/s/s07/01.m3u8
-#EXTINF:3 tvg-id="TVRI Nasional"tvg-name="TVRI Nasional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/1200px-TVRILogo2019.svg.png" ,TVRI Nasional
+#EXTINF:3 tvg-id="TVRINasional.id"tvg-name="TVRI Nasional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/1200px-TVRILogo2019.svg.png" ,TVRI Nasional
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(04)/index.m3u8
-#EXTINF:4 tvg-id="INDOSIAR"tvg-name="INDOSIAR" tvg-logo="https://www.useetv.com/assets/images/channel/logo_indosiar_small1.png",Indosiar
+#EXTINF:4 tvg-id="Indosiar.id"tvg-name="INDOSIAR" tvg-logo="https://www.useetv.com/assets/images/channel/logo_indosiar_small1.png",Indosiar
 https://liveanevia.mncnow.id/live/eds/INDOSIAR-ryzen/sa_hls/index.m3u8
 #EXTINF:5 tvg-id="RCTI"tvg-name="RCTI" tvg-logo="https://i.postimg.cc/x8vJbLyK/download-81.png",RCTI
 https://visionplus-stream.visionplus.id/live/eds/RCTI-Indonesia/sa_hls/RCTI-Indonesia.m3u8
@@ -19,7 +19,7 @@ https://visionplus-stream.visionplus.id/live/eds/GTV-Perjuangan/sa_hls/GTV-Perju
 https://liveanevia.mncnow.id/live/eds/TVONE-Decepticon/sa_hls/index.m3u8
 #EXTINF:10 tvg-id="Metro TV"tvg-name="Metro TV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_metrotv_small1.png",Metro TV
 https://liveanevia.mncnow.id/live/eds/MetroTV-RTX/sa_hls/index.m3u8
-#EXTINF:11 tvg-id="TRANS 7"tvg-name="TRANS 7" tvg-logo="https://www.useetv.com/assets/images/channel/logo_trans7_small1.png",TRANS 7
+#EXTINF:11 tvg-id="Trans7.id"tvg-name="TRANS 7" tvg-logo="https://www.useetv.com/assets/images/channel/logo_trans7_small1.png",TRANS 7
 https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
 #EXTINF:12 tvg-id="NET TV"tvg-name="NET TV" tvg-logo="https://i.postimg.cc/rmQqwW9x/download-63.png",NET TV
 http://45.126.83.51:80/session/9a1333a4-93cd-11ea-ac63-966cac0014e4/qwr9ew/s/s08/01.m3u8
