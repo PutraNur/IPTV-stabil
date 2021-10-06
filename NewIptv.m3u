@@ -14,7 +14,7 @@ https://visionplus-stream.visionplus.id/live/eds/MNCTV-Merdeka/sa_hls/MNCTV-Merd
 #EXTINF:7 tvg-id="SCTV"tvg-name="SCTV" tvg-logo="https://i.postimg.cc/W1vRngmd/download-2021-09-06-T024529-000.jpg",SCTV
 http://210.210.155.35:80/qwr9ew/s/s03/01.m3u8
 #EXTINF:8 tvg-id="GTV"tvg-name="GTV" tvg-logo="https://i.postimg.cc/Y0ZnhKR4/download-2021-09-06-T024124-472.jpg",GTV
-https://visionplus-stream.visionplus.id/live/eds/GTV-Perjuangan/sa_hls/GTV-Perjuangan.m3u8
+https://vcdn2.rctiplus.id/live/eds/gtv_fta/live_fta/gtv_fta.m3u8
 #EXTINF:9 tvg-id="TVONE"tvg-name="TVONE" tvg-logo="https://www.mncvision.id/userfiles/image/channel/tvone.png",TVONE
 https://liveanevia.mncnow.id/live/eds/TVONE-Decepticon/sa_hls/index.m3u8
 #EXTINF:10 tvg-id="Metro TV"tvg-name="Metro TV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_metrotv_small1.png",Metro TV
@@ -63,5 +63,7 @@ http://stream1.ninmedia.tv:1935/spacetoon/udp.stream_360p/playlist.m3u8
 http://xcui.vitvabc.xyz:8880/287994000027/287994000027/31149?checkedby:iptvcat.com
 #EXTINF:32 tvg-id="Animax ID"tvg-name="Animax ID" tvg-logo="https://i.postimg.cc/HktrDZSX/logo-animax-big.png",Animax ID
 http://playlist.urfan.web.id/dr9445/h/h144/01.m3u8
-#EXTINF:33 tvg-id="RTV"tvg-name="RTV" tvg-logo="https://id.wikipedia.org/wiki/Berkas:Rajawali_Televisi.svg#/media/Berkas:Rajawali_Televisi.png",RTV
+#EXTINF:33 tvg-id="RTV"tvg-name="RTV" tvg-logo="https://id.wikipedia.org/wiki/Berkas:Rajawali_Televisi.svg#/media/Berkas:Rajawali_Televisi.svg.png",RTV
 http://210.210.155.35:80/qwr9ew/s/s12/02.m3u8?app_type=mobile&userid=2m4n6yjvyen-&tkn=1U7A426J3DXLYES3U4V7KSIJCJXYR1YF&chname=RTV
+#EXTINF:34 tvg-id="TVRISportHD.id"tvg-name="TVRI SPORT HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/320px-TVRILogo2019.svg.png",TVRI SPORT HD
+http://118.97.50.107/Content/HLS/Live/Channel(TVRI4)/index.m3u8
