@@ -1,6 +1,6 @@
 #EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/mncvision.id.guide.xml,https://raw.githubusercontent.com/PutraNur/IPTV-stabil/master/EPG.xml"
 #EXTINF:1 tvg-id="TransTV.id"tvg-name="TRANS TV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_transtv_small1.png",TransTV
-https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
+https://video.detik.com/transtv/smil:transtv.smil/chunklist_kamiselaluada_b744100_sleng.m3u
 #EXTINF:2 tvg-id="ANTV.id"tvg-name="ANTV" tvg-logo="https://i.ibb.co/tpdTH3m/antvlogo.png",ANTV
 http://210.210.155.35:80/qwr9ew/s/s07/01.m3u8
 #EXTINF:3 tvg-id="TVRINasional.id"tvg-name="TVRI Nasional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/1200px-TVRILogo2019.svg.png" ,TVRI Nasional
@@ -20,7 +20,7 @@ https://liveanevia.mncnow.id/live/eds/TVONE-Decepticon/sa_hls/index.m3u8
 #EXTINF:10 tvg-id="MetroTV.id"tvg-name="Metro TV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_metrotv_small1.png",Metro TV
 https://liveanevia.mncnow.id/live/eds/MetroTV-RTX/sa_hls/index.m3u8
 #EXTINF:11 tvg-id="Trans7.id"tvg-name="TRANS 7" tvg-logo="https://www.useetv.com/assets/images/channel/logo_trans7_small1.png",TRANS 7
-https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
+https://video.detik.com/trans7/smil:trans7.smil/chunklist_kamiselaluada_b744100_sleng.m3u8
 #EXTINF:12 tvg-id="	NET.id"tvg-name="NET TV" tvg-logo="https://i.postimg.cc/rmQqwW9x/download-63.png",NET TV
 http://45.126.83.51:80/session/9a1333a4-93cd-11ea-ac63-966cac0014e4/qwr9ew/s/s08/01.m3u8
 #EXTINF:13 tvg-id="INews.id"tvg-name="iNEWS TV" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_83.png",iNEWS TV
