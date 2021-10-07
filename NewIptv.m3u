@@ -71,3 +71,7 @@ http://118.97.50.107/Content/HLS/Live/Channel(TVRI4)/index.m3u8
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=38db3aed920cf82ab059bfccbd02be6a268ef7e5a44f541a7cbde7626ef57566
 #EXTINF:36 tvg-id="AnimalPlanetSoutheastAsia.us"tvg-name="Animal Planet" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfoWm5_TjfCLozf4JAPG1MDzv0qfdjYIyMvw&usqp=CAU",Animal Planet
 http://50.7.161.82:8278/streams/d/AnimalPlanet/playlist.m3u8
+#EXTINF:37 tvg-id="iKonser"tvg-name="iKonser" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuvtdXLY0kZAf2RpFizZCwUL7sna5SzSR7CdYayWY&usqp=CAU",iKonser
+https://home-tv.web.id/RHS/111111111111111111111111111111111111111mpd.m3u8?channel=ikonser
+#EXTINF:37 tvg-id="CNBC Asia"tvg-name="CNBC Asia" tvg-logo="https://home-tv.web.id/RHS/111111111111111111111111111111111111111mpd.m3u8?channel=cnbcasia",CNBC Asia
+https://home-tv.web.id/RHS/111111111111111111111111111111111111111mpd.m3u8?channel=cnbcasia
