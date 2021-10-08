@@ -1,12 +1,12 @@
 #EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/mncvision.id.guide.xml
 #EXTM3U url-tvg="https://raw.githubusercontent.com/PutraNur/IPTV-stabil/master/EPG.xml
-#EXTM3U url-tvg="http://epg.it999.ru/epg.xml.gz
+#EXTM3U url-tvg="http://epg.it999.ru/epg.xml
 #EXTM3U url-tvg="https://bit.ly/3yx3KgT
 
 
 
 #EXTINF:1 tvg-id="TransTV.id"tvg-name="TRANS TV" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_87.png",TransTV
-https://video.detik.com/transtv/smil:transtv.smil/chunklist_kamiselaluada_b744100_sleng.m3u
+https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
 #EXTINF:2 tvg-id="ANTV.id"tvg-name="ANTV" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_115.png",ANTV
 http://210.210.155.35:80/qwr9ew/s/s07/01.m3u8
 #EXTINF:3 tvg-id="TVRINasional.id"tvg-name="TVRI Nasional" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_118.jpg",TVRI Nasional
