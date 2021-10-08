@@ -12,7 +12,7 @@ http://210.210.155.35:80/qwr9ew/s/s07/01.m3u8
 #EXTINF:3 tvg-id="TVRINasional.id"tvg-name="TVRI Nasional" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_118.jpg",TVRI Nasional
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(04)/index.m3u8
 #EXTINF:4 tvg-id="Indosiar.id"tvg-name="INDOSIAR" tvg-logo="https://www.mncvision.id/userfiles/image/channel/Indosiar.png",Indosiar
-http://rr2.dens.tv/s/s04/01.m3u8
+hhttp://210.210.155.35/session/8fe637d4-fb26-11eb-9071-b82a72d63267/qwr9ew/s/s04/01.m3u8
 #EXTINF:5 tvg-id="RCTI.id"tvg-name="RCTI" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_80.png",RCTI
 https://livetv01.rctiplus.id/live/eds/rcti_fta/live_fta/rcti_fta-avc1_1537200=7-mp4a_64000_eng=2.m3u8
 #EXTINF:6 tvg-id="MNCTV.id"tvg-name="MNCTV" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_82.png",MNCTV
@@ -21,7 +21,7 @@ https://livetv01.rctiplus.id/live/eds/mnctv_fta/live_fta/mnctv_fta-avc1_1537200=
 http://210.210.155.35:80/qwr9ew/s/s03/01.m3u8
 #EXTINF:8 tvg-id="GTV.id"tvg-name="GTV" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_81.png",GTV
 https://livetv01.rctiplus.id/live/eds/gtv_fta/live_fta/gtv_fta-avc1_1537200=6-mp4a_64000_eng=2.m3u8
-#EXTINF:9 tvg-id="TVOne.id"tvg-name="TVONE" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_81.png",TVONE
+#EXTINF:9 tvg-id="TVOne.id"tvg-name="TVONE" tvg-logo="https://www.mncvision.id/userfiles/image/channel/tvone.png",TVONE
 https://liveanevia.mncnow.id/live/eds/TVONE-Decepticon/sa_hls/index.m3u8
 #EXTINF:10 tvg-id="MetroTV.id"tvg-name="Metro TV" tvg-logo="https://www.mncvision.id/userfiles/image/channel/metro_tv.png",Metro TV
 https://liveanevia.mncnow.id/live/eds/MetroTV-RTX/sa_hls/index.m3u8
@@ -62,7 +62,7 @@ http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI3)/Str
 #EXTINF:28 tvg-id="JTV ID"tvg-name="JTV" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/8/8e/JTV_%282012%29.svg/1200px-JTV_%282012%29.png",JTV
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=6ea9ab1baa0efb9e19094440c317e21b268ef7e5a44f541a7cbde7626ef57566
 #EXTINF:29 tvg-id="KompasTV.id"tvg-name="Kompas TV" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_106.png",Kompas TV
-http://rr2.dens.tv/s/s104/01.m3u8
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(dc9040ad-a4e1-4d08-883c-a65542b69602)/index.m3u8
 #EXTINF:30 tvg-id="Spacetoon ID"tvg-name="Spacetoon" tvg-logo="https://upload.wikimedia.org/wikipedia/id/e/e3/Spacetoon.png",Spacetoon
 http://stream1.ninmedia.tv:1935/spacetoon/udp.stream_360p/playlist.m3u8
 #EXTINF:31 tvg-id="ESPN HD"tvg-name="ESPN HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/Espn.png",ESPN HD
