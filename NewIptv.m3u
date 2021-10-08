@@ -1,28 +1,34 @@
-#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/mncvision.id.guide.xml,https://raw.githubusercontent.com/PutraNur/IPTV-stabil/master/EPG.xml"
-#EXTINF:1 tvg-id="TransTV.id"tvg-name="TRANS TV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_transtv_small1.png",TransTV
+#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/mncvision.id.guide.xml
+#EXTM3U url-tvg="https://raw.githubusercontent.com/PutraNur/IPTV-stabil/master/EPG.xml
+#EXTM3U url-tvg="http://epg.it999.ru/epg.xml.gz
+#EXTM3U url-tvg="https://bit.ly/3yx3KgT
+
+
+
+#EXTINF:1 tvg-id="TransTV.id"tvg-name="TRANS TV" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_87.png",TransTV
 https://video.detik.com/transtv/smil:transtv.smil/chunklist_kamiselaluada_b744100_sleng.m3u
-#EXTINF:2 tvg-id="ANTV.id"tvg-name="ANTV" tvg-logo="https://i.ibb.co/tpdTH3m/antvlogo.png",ANTV
+#EXTINF:2 tvg-id="ANTV.id"tvg-name="ANTV" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_115.png",ANTV
 http://210.210.155.35:80/qwr9ew/s/s07/01.m3u8
-#EXTINF:3 tvg-id="TVRINasional.id"tvg-name="TVRI Nasional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/1200px-TVRILogo2019.svg.png" ,TVRI Nasional
+#EXTINF:3 tvg-id="TVRINasional.id"tvg-name="TVRI Nasional" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_118.jpg",TVRI Nasional
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(04)/index.m3u8
-#EXTINF:4 tvg-id="Indosiar.id"tvg-name="INDOSIAR" tvg-logo="https://www.useetv.com/assets/images/channel/logo_indosiar_small1.png",Indosiar
+#EXTINF:4 tvg-id="Indosiar.id"tvg-name="INDOSIAR" tvg-logo="https://www.mncvision.id/userfiles/image/channel/Indosiar.png",Indosiar
 https://liveanevia.mncnow.id/live/eds/INDOSIAR-ryzen/sa_hls/index.m3u8
-#EXTINF:5 tvg-id="RCTI.id"tvg-name="RCTI" tvg-logo="https://i.postimg.cc/x8vJbLyK/download-81.png",RCTI
+#EXTINF:5 tvg-id="RCTI.id"tvg-name="RCTI" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_80.png",RCTI
 https://livetv01.rctiplus.id/live/eds/rcti_fta/live_fta/rcti_fta-avc1_1537200=7-mp4a_64000_eng=2.m3u8
-#EXTINF:6 tvg-id="MNCTV.id"tvg-name="MNCTV" tvg-logo="https://i.postimg.cc/66fpn6xL/download-2021-09-06-T023906-601.jpg",MNCTV
+#EXTINF:6 tvg-id="MNCTV.id"tvg-name="MNCTV" tvg-logo=https://www.mncvision.id/userfiles/image/channel/channel_82.png",MNCTV
 https://livetv01.rctiplus.id/live/eds/mnctv_fta/live_fta/mnctv_fta-avc1_1537200=6-mp4a_64000_eng=2.m3u8?eroz_brebes.m3u8
 #EXTINF:7 tvg-id="SCTV.id"tvg-name="SCTV" tvg-logo="https://i.postimg.cc/W1vRngmd/download-2021-09-06-T024529-000.jpg",SCTV
 http://210.210.155.35:80/qwr9ew/s/s03/01.m3u8
-#EXTINF:8 tvg-id="GTV.id"tvg-name="GTV" tvg-logo="https://i.postimg.cc/Y0ZnhKR4/download-2021-09-06-T024124-472.jpg",GTV
+#EXTINF:8 tvg-id="GTV.id"tvg-name="GTV" tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/Xye0dwc1q7gsdu4aUfOywAouEYc=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/778/global-tv-stream-1aea79.jpg",GTV
 https://livetv01.rctiplus.id/live/eds/gtv_fta/live_fta/gtv_fta-avc1_1537200=6-mp4a_64000_eng=2.m3u8
-#EXTINF:9 tvg-id="TVOne.id"tvg-name="TVONE" tvg-logo="https://www.mncvision.id/userfiles/image/channel/tvone.png",TVONE
+#EXTINF:9 tvg-id="TVOne.id"tvg-name="TVONE" tvg-logo="https://i.ytimg.com/vi/JzLDCNxTEmA/maxresdefault.jpg",TVONE
 https://liveanevia.mncnow.id/live/eds/TVONE-Decepticon/sa_hls/index.m3u8
-#EXTINF:10 tvg-id="MetroTV.id"tvg-name="Metro TV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_metrotv_small1.png",Metro TV
+#EXTINF:10 tvg-id="MetroTV.id"tvg-name="Metro TV" tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/CN732k1UkV-MWtonPwmlMzDE-gY=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/777/metro-tv-461c64.jpg",Metro TV
 https://liveanevia.mncnow.id/live/eds/MetroTV-RTX/sa_hls/index.m3u8
-#EXTINF:11 tvg-id="Trans7.id"tvg-name="TRANS 7" tvg-logo="https://www.useetv.com/assets/images/channel/logo_trans7_small1.png",TRANS 7
+#EXTINF:11 tvg-id="Trans7.id"tvg-name="TRANS 7" tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/hfSgVb256JvcaGDLMm5wI0Qj1NI=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/734/trans7-tv-stream-b793ab.jpg",TRANS 7
 https://video.detik.com/trans7/smil:trans7.smil/chunklist_kamiselaluada_b744100_sleng.m3u8
-#EXTINF:12 tvg-id="	NET.id"tvg-name="NET TV" tvg-logo="https://i.postimg.cc/rmQqwW9x/download-63.png",NET TV
-http://45.126.83.51:80/session/9a1333a4-93cd-11ea-ac63-966cac0014e4/qwr9ew/s/s08/01.m3u8
+#EXTINF:12 tvg-id="	NET.id"tvg-name="NET TV" tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/bXwNElZHHM2uvwHO23kXVFETxbE=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/875/net-tv-b8499f.jpg",NET TV
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=d82c8d1619ad8176d665453cfb2e55f0268ef7e5a44f541a7cbde7626ef57566
 #EXTINF:13 tvg-id="INews.id"tvg-name="iNEWS TV" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_83.png",iNEWS TV
 https://livetv01.rctiplus.id/live/eds/inews_fta/live_fta/inews_fta-avc1_1537200=6-mp4a_64000_eng=2.m3u8
 #EXTINF:14 tvg-id="BoomerangSouthEastAsia.us"tvg-name="BOOMERANG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Boomerang_2014_logo.svg/1200px-Boomerang_2014_logo.svg.png",BOOMERANG
@@ -40,17 +46,17 @@ https://m3u-editor.com/serve/1f5c2f00-c50a-11eb-a9cf-49fb7da8769f/309066025
 #EXTINF:20 tvg-id="BeritaSatuHD.id"tvg-name="Berita Satu" tvg-logo="https://img2.pngdownload.id/20180806/wax/kisspng-beritasatu-com-logo-beritasatu-media-holdings-news-kumpulan-berita-harian-bisnis-ekonomi-terkini-5b687d0c685ac2.7574988515335744124274.jpg",Berita Satu
 https://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8
 #EXTINF:21 tvg-id="NickelodeonSouthEastAsia.us"tvg-name="Nickelodeon" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLQSgQIli3EIzikFi_XPaTZyObTMCh6uHDekVo3oQQ=s900-c-k-c0x00ffffff-no-rj",Nickelodeon
-https://home-tv.web.id/RHS/111111111111111111111111111111111111111mpd.m3u8?channel=nickelodeon
+http://198.16.106.62:8278/streams/d/Nickelodeon/playlist.m3u8
 #EXTINF:22 tvg-id="Nick Junior"tvg-name="Nick Junior" tvg-logo="https://i.imgur.com/7imquVM.png",Nick Junior
-https://home-tv.web.id/RHS/111111111111111111111111111111111111111mpd.m3u8?channel=nickjr
+http://198.16.106.62:8278/streams/d/Nickjr/playlist.m3u8
 #EXTINF:23 tvg-id="CNN Indonesia ID"tvg-name="CNN Indonesia" tvg-logo="https://cdn.cnnindonesia.com/cnnid/images/logo_cnn_fav.png?v=10.1.9",CNN Indonesia
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w2136674526_b384000_sleng.m3u8
 #EXTINF:24 tvg-id="CNBC Indonesia ID"tvg-name="CNBC Indonesia" tvg-logo="https://cdn.cnbcindonesia.com/cnbc/images/logo_hitam.png?w=650",CNBC Indonesia
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_kamiselaluada_b384000_sleng.m3u8
 #EXTINF:25 tvg-id="CNNInternationalAsia.us"tvg-name="CNN Internasional" tvg-logo="https://cdn.cnn.com/cnn/.e/img/3.0/global/misc/cnn-logo.png",CNN Internasional
 https://cnn-cnninternational-1-de.samsung.wurl.com/manifest/playlist_1280x720_3000k.m3u8
-#EXTINF:26 tvg-id="MTV LIVE.us"tvg-name="MTV Live" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQg0hpu6K1b0Be1kLyC4FwWsL3wxGEhbpYUMA&usqp=CAU",MTV Live
-https://home-tv.web.id/RHS/111111111111111111111111111111111111111mpd.m3u8?channel=mtvlive
+#EXTINF:26 tvg-id=""tvg-name="SEA TODAY" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQg0hpu6K1b0Be1kLyC4FwWsL3wxGEhbpYUMA&usqp=CAU",SEA TODAY
+https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(9ce3f094-4044-467e-84b7-b684a49571d5)/manifest.mpd
 #EXTINF:27 tvg-id="TVRI Kanal 3"tvg-name="TVRI Kanal 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/1200px-TVRILogo2019.svg.png",TVRI Kanal 3
 http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI3)/Stream(03)/index.m3u8
 #EXTINF:28 tvg-id="JTV ID"tvg-name="JTV" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/8/8e/JTV_%282012%29.svg/1200px-JTV_%282012%29.png",JTV
