@@ -56,7 +56,7 @@ https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_kamiselaluada
 #EXTINF:25 tvg-id="CNNInternationalAsia.us"tvg-name="CNN Internasional" tvg-logo="https://cdn.cnn.com/cnn/.e/img/3.0/global/misc/cnn-logo.png",CNN Internasional
 https://cnn-cnninternational-1-de.samsung.wurl.com/manifest/playlist_1280x720_3000k.m3u8
 #EXTINF:26 tvg-id=""tvg-name="SEA TODAY" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_336.png",SEA TODAY
-https://cdngb196.useetv.com/joss/18/seatodayweb/chunklist_w364652970_b1244100_sleng.m3u8?enc=w6KGu0ORd2BX0sfEYPIlxQ&uid=&exp=1635408543
+https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(9ce3f094-4044-467e-84b7-b684a49571d5)/manifest.mpd
 #EXTINF:27 tvg-id="TVRI Kanal 3"tvg-name="TVRI Kanal 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/1200px-TVRILogo2019.svg.png",TVRI Kanal 3
 http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI3)/Stream(03)/index.m3u8
 #EXTINF:28 tvg-id="JTV ID"tvg-name="JTV" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/8/8e/JTV_%282012%29.svg/1200px-JTV_%282012%29.png",JTV
