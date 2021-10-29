@@ -32,7 +32,7 @@ http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c
 #EXTINF:13 tvg-id="INews.id"tvg-name="iNEWS TV" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_83.png",iNEWS TV
 https://livetv01.rctiplus.id/live/eds/inews_fta/live_fta/inews_fta-avc1_1537200=6-mp4a_64000_eng=2.m3u8
 #EXTINF:14 tvg-id="BoomerangSouthEastAsia.us"tvg-name="BOOMERANG" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_39.jpg",BOOMERANG
-http://198.16.106.62:8278/streams/d/Boomerang/playlist.m3u8
+http://mygoodstream.pw/proxy.php/http://31.220.41.88:8081/live/us-boomerang.stream/playlist.m3u8
 #EXTINF:15 tvg-id="CartoonNetworkAsia.us"tvg-name="Cartoon Network" tvg-logo="https://www.mncvision.id/userfiles/image/channel/cartoon_network.png",Cartoon Network
 http://198.16.106.62:8278/streams/d/Cn/playlist.m3u8
 #EXTINF:16 tvg-id="Blue Ant"tvg-name="Blue Ant Entertaiment" tvg-logo="https://i.postimg.cc/ydsh330j/images-7.png",Blue Ant Entertaiment
