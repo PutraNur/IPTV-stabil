@@ -87,7 +87,7 @@ https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(7a73ed02-e0de-4
 
 
 /////Siaran Percobaan/////////
-#EXTINF:0 tvg-id=""tvg-name="Siaran Percobaan (iNEWS TV)" tvg-logo="style="width: 112px; height: 110px; position: relative; background-image: url("https://vmp-cms.telkomsel.com/sites/default/files/entry/0_81uwc59i/carousel_xhdpi.jpg");"" group-title="Siaran Percobaan",Siaran Percobaan (iNEWS TV)
+#EXTINF:0 tvg-id=""tvg-name="iNEWS TV" tvg-logo="https://od.lk/d/MjVfMjM5NTc4MjVf/Siaran%20Percobaan.png" group-title="Siaran Percobaan",iNEWS TV
 https://iptv.mwafa.net/vidio/5409/index.m3u8?token=1999
 #EXTINF:0 tvg-id=""tvg-name="Siaran Percobaan (RCTI)" tvg-logo="" group-title="Siaran Percobaan",Siaran Percobaan (RCTI)
 https://iptv.mwafa.net/vidio/665/index.m3u8?token=1999
