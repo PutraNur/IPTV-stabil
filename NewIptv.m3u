@@ -81,10 +81,10 @@ http://50.7.161.82:8278/streams/d/AnimalPlanet/playlist.m3u8
 https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLinux/amagi_hls_data_xumo1212A-xumo-nbcnewsnow/CDN/playlist.m3u8
 #EXTINF:38 tvg-id="Prambors"tvg-name="Prambors" tvg-logo="https://www.useetv.com/assets/images/channel/logo_pramborstv_small1.png?v=2.0.0.13",Prambors
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=d2ddea18f00665ce8623e36bd4e3c7c5f93fb3c9879684db94f7af38b446022a
-#EXTINF:0 tvg-id=""tvg-name="service 1" tvg-logo="",Service 1
-https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(bd164a95-722d-40db-a596-687c8123f197)/manifest.mpd
-#EXTINF:0 tvg-id=""tvg-name="service 2" tvg-logo="",Service 2
-https://vcdn2.rctiplus.id/live/eds/rcti_fta/live_fta/rcti_fta.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id=""tvg-name="Siaran Percobaan (iNEWS TV)" tvg-logo="",Siaran Percobaan (iNEWS TV)
+https://iptv.mwafa.net/vidio/5409/index.m3u8?token=1999
+#EXTINF:0 tvg-id=""tvg-name="Siaran Percobaan (RCTI)" tvg-logo="",Siaran Percobaan (RCTI)
+https://iptv.mwafa.net/vidio/665/index.m3u8?token=1999
 #EXTINF:0 tvg-id=""tvg-name="service 3" tvg-logo="",Service 3
 https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(7a73ed02-e0de-4df1-8da3-5abfd75f24bd)/manifest.mpd
 #EXTINF:0 tvg-id=""tvg-name="service 4" tvg-logo="",Service 4
