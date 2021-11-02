@@ -87,25 +87,25 @@ https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(7a73ed02-e0de-4
 
 
 /////Siaran Percobaan/////////
-#EXTINF:0 tvg-id=""tvg-name="iNEWS TV (Siaran Percobaan)" tvg-logo="https://www.dropbox.com/s/f3yctytqzbu6h5c/Siaran%20Percobaan.png?dl=0" group-title="Siaran Percobaan",iNEWS TV
+#EXTINF:0 tvg-id=""tvg-name="iNEWS TV (Siaran Percobaan)" tvg-logo="https://od.lk/d/MjVfMjM5NTc4MjVf/Siaran%20Percobaan.png" group-title="Siaran Percobaan",iNEWS TV (Siaran Percobaan)
 https://iptv.mwafa.net/vidio/5409/index.m3u8?token=1999
-#EXTINF:0 tvg-id=""tvg-name="RCTI (Siaran Percobaan)" tvg-logo="https://www.dropbox.com/s/f3yctytqzbu6h5c/Siaran%20Percobaan.png?dl=0" group-title="Siaran Percobaan",RCTI (Siaran Percobaan)
+#EXTINF:0 tvg-id=""tvg-name="RCTI (Siaran Percobaan)" tvg-logo="https://od.lk/d/MjVfMjM5NTc4MjVf/Siaran%20Percobaan.png" group-title="Siaran Percobaan",RCTI (Siaran Percobaan)
 https://iptv.mwafa.net/vidio/665/index.m3u8?token=1999
-#EXTINF:0 tvg-id=""tvg-name="JAK TV (Siaran Percobaan)" tvg-logo="https://www.dropbox.com/s/f3yctytqzbu6h5c/Siaran%20Percobaan.png?dl=0" group-title="Siaran Percobaan",JAK TV (Siaran Percobaan)
+#EXTINF:0 tvg-id=""tvg-name="JAK TV (Siaran Percobaan)" tvg-logo="https://od.lk/d/MjVfMjM5NTc4MjVf/Siaran%20Percobaan.png" group-title="Siaran Percobaan",JAK TV (Siaran Percobaan)
 https://iptv.mwafa.net/vidio/5415/index.m3u8?token=1999
-#EXTINF:0 tvg-id=""tvg-name="O Shop (Siaran Percobaan)" tvg-logo="https://www.dropbox.com/s/f3yctytqzbu6h5c/Siaran%20Percobaan.png?dl=0" group-title="Siaran Percobaan",O Shop (Siaran Percobaan)
+#EXTINF:0 tvg-id=""tvg-name="O Shop (Siaran Percobaan)" tvg-logo="https://od.lk/d/MjVfMjM5NTc4MjVf/Siaran%20Percobaan.png" group-title="Siaran Percobaan",O Shop (Siaran Percobaan)
 https://iptv.mwafa.net/vidio/6166/index.m3u8?token=1999
-#EXTINF:0 tvg-id=""tvg-name="O Channel (Siaran Percobaan)" tvg-logo="https://www.dropbox.com/s/f3yctytqzbu6h5c/Siaran%20Percobaan.png?dl=0" group-title="Siaran Percobaan",O Channel (Siaran Percobaan)
+#EXTINF:0 tvg-id=""tvg-name="O Channel (Siaran Percobaan)" tvg-logo="https://od.lk/d/MjVfMjM5NTc4MjVf/Siaran%20Percobaan.png" group-title="Siaran Percobaan",O Channel (Siaran Percobaan)
 https://iptv.mwafa.net/vidio/206/index.m3u8?token=1999
-#EXTINF:0 tvg-id=""tvg-name="Nusantara TV (Siaran Percobaan)" tvg-logo="https://www.dropbox.com/s/f3yctytqzbu6h5c/Siaran%20Percobaan.png?dl=0" group-title="Siaran Percobaan",Nusantara TV (Siaran Percobaan)
+#EXTINF:0 tvg-id=""tvg-name="Nusantara TV (Siaran Percobaan)" tvg-logo="https://od.lk/d/MjVfMjM5NTc4MjVf/Siaran%20Percobaan.png" group-title="Siaran Percobaan",Nusantara TV (Siaran Percobaan)
 https://iptv.mwafa.net/vidio/7432/index.m3u8?token=1999
-#EXTINF:0 tvg-id=""tvg-name="GTV (Siaran Percobaan)" tvg-logo="https://www.dropbox.com/s/f3yctytqzbu6h5c/Siaran%20Percobaan.png?dl=0" group-title="Siaran Percobaan",GTV (Siaran Percobaan)
+#EXTINF:0 tvg-id=""tvg-name="GTV (Siaran Percobaan)" tvg-logo="https://od.lk/d/MjVfMjM5NTc4MjVf/Siaran%20Percobaan.png" group-title="Siaran Percobaan",GTV (Siaran Percobaan)
 https://iptv.mwafa.net/vidio/778/index.m3u8?token=1999
 
 
 
 /////Siaran Kosong/////////
-#EXTINF:0 tvg-id=""tvg-name="Siaran Kosong 1" tvg-logo="https://www.dropbox.com/s/wka1zrjc52443hc/Siaran%20Kosong.png?dl=0",Siaran Kosong 1
-https://www.dropbox.com/s/hnyafx2rwckmym3/20100925%20-%20Bars%20and%20Tone%2C%20in%201080p%20HD.mp4?dl=0
-#EXTINF:0 tvg-id=""tvg-name="Siaran Kosong 2" tvg-logo="https://www.dropbox.com/s/wka1zrjc52443hc/Siaran%20Kosong.png?dl=0",Siaran Kosong 2
+#EXTINF:0 tvg-id=""tvg-name="Siaran Kosong 1" tvg-logo="https://od.lk/d/MjVfMjM5NTc4MzVf/Siaran%20Kosong.png",Siaran Kosong 1
+https://od.lk/s/MjVfMjM5Mjc4MDNf/20100925%20-%20Bars%20and%20Tone%2C%20in%201080p%20HD.mp4
+#EXTINF:0 tvg-id=""tvg-name="Siaran Kosong 2" tvg-logo="https://od.lk/d/MjVfMjM5NTc4MzVf/Siaran%20Kosong.png",Siaran Kosong 2
 https://od.lk/s/MjVfMjM5Mjc4MDNf/20100925%20-%20Bars%20and%20Tone%2C%20in%201080p%20HD.mp4
