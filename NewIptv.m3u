@@ -81,11 +81,29 @@ http://50.7.161.82:8278/streams/d/AnimalPlanet/playlist.m3u8
 https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLinux/amagi_hls_data_xumo1212A-xumo-nbcnewsnow/CDN/playlist.m3u8
 #EXTINF:38 tvg-id="Prambors"tvg-name="Prambors" tvg-logo="https://www.useetv.com/assets/images/channel/logo_pramborstv_small1.png?v=2.0.0.13",Prambors
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=d2ddea18f00665ce8623e36bd4e3c7c5f93fb3c9879684db94f7af38b446022a
-#EXTINF:0 tvg-id=""tvg-name="Siaran Percobaan (iNEWS TV)" tvg-logo="",Siaran Percobaan (iNEWS TV)
-https://iptv.mwafa.net/vidio/5409/index.m3u8?token=1999
-#EXTINF:0 tvg-id=""tvg-name="Siaran Percobaan (RCTI)" tvg-logo="",Siaran Percobaan (RCTI)
-https://iptv.mwafa.net/vidio/665/index.m3u8?token=1999
-#EXTINF:0 tvg-id=""tvg-name="service 3" tvg-logo="",Service 3
+#EXTINF:39 tvg-id="JakTV"tvg-name="JakTV" tvg-logo="https://i.gifer.com/SeSl.gif",JakTV
 https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(7a73ed02-e0de-4df1-8da3-5abfd75f24bd)/manifest.mpd
-#EXTINF:0 tvg-id=""tvg-name="service 4" tvg-logo="",Service 4
+
+
+
+/////Siaran Percobaan/////////
+#EXTINF:0 tvg-id=""tvg-name="Siaran Percobaan (iNEWS TV)" tvg-logo="" group-title="Siaran Percobaan",Siaran Percobaan (iNEWS TV)
+https://iptv.mwafa.net/vidio/5409/index.m3u8?token=1999
+#EXTINF:0 tvg-id=""tvg-name="Siaran Percobaan (RCTI)" tvg-logo="" group-title="Siaran Percobaan",Siaran Percobaan (RCTI)
+https://iptv.mwafa.net/vidio/665/index.m3u8?token=1999
+#EXTINF:0 tvg-id=""tvg-name="Siaran Percobaan (JakTV)" tvg-logo="" group-title="Siaran Percobaan",Siaran Percobaan (JakTV)
+https://iptv.mwafa.net/vidio/5415/index.m3u8?token=1999
+#EXTINF:0 tvg-id=""tvg-name="Siaran Percobaan (O Shop)" tvg-logo="" group-title="Siaran Percobaan",Siaran Percobaan (O Shop)
+https://iptv.mwafa.net/vidio/6166/index.m3u8?token=1999
+#EXTINF:0 tvg-id=""tvg-name="Siaran Percobaan (O Channel)" tvg-logo="" group-title="Siaran Percobaan",Siaran Percobaan (O Channel)
+https://iptv.mwafa.net/vidio/206/index.m3u8?token=1999
+#EXTINF:0 tvg-id=""tvg-name="Siaran Percobaan (Nusantara TV)" tvg-logo="" group-title="Siaran Percobaan",Siaran Percobaan (Nusantara TV)
+https://iptv.mwafa.net/vidio/7432/index.m3u8?token=1999
+
+
+
+/////Siaran Kosong/////////
+#EXTINF:0 tvg-id=""tvg-name="Siaran Kosong 1" tvg-logo="",Siaran Kosong 1
+https://od.lk/s/MjVfMjM5Mjc4MDNf/20100925%20-%20Bars%20and%20Tone%2C%20in%201080p%20HD.mp4
+#EXTINF:0 tvg-id=""tvg-name="Siaran Kosong 2" tvg-logo="",Siaran Kosong 2
 https://od.lk/s/MjVfMjM5Mjc4MDNf/20100925%20-%20Bars%20and%20Tone%2C%20in%201080p%20HD.mp4
