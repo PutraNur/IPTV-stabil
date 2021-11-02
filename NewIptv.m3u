@@ -99,7 +99,8 @@ https://iptv.mwafa.net/vidio/6166/index.m3u8?token=1999
 https://iptv.mwafa.net/vidio/206/index.m3u8?token=1999
 #EXTINF:0 tvg-id=""tvg-name="Siaran Percobaan (Nusantara TV)" tvg-logo="" group-title="Siaran Percobaan",Siaran Percobaan (Nusantara TV)
 https://iptv.mwafa.net/vidio/7432/index.m3u8?token=1999
-
+#EXTINF:0 tvg-id=""tvg-name="Siaran Percobaan (GTV)" tvg-logo="" group-title="Siaran Percobaan",Siaran Percobaan (GTV)
+https://iptv.mwafa.net/vidio/778/index.m3u8?token=1999
 
 
 /////Siaran Kosong/////////
