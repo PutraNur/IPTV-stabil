@@ -5,101 +5,101 @@
 
 
 
-#EXTINF:1 tvg-id="TransTV.id"tvg-name="TRANS TV" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_87.png" group-title="CH Aktif",TransTV
+#EXTINF:1 tvg-id="TransTV.id"tvg-name="TRANS TV" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_87.png" ,TransTV
 https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
-#EXTINF:2 tvg-id="ANTV.id"tvg-name="ANTV" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_115.png" group-title="CH Aktif",ANTV
+#EXTINF:2 tvg-id="ANTV.id"tvg-name="ANTV" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_115.png" ,ANTV
 http://210.210.155.35/qwr9ew/s/s07/01.m3u8
-#EXTINF:3 tvg-id="TVRINasional.id"tvg-name="TVRI Nasional" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_118.jpg" group-title="CH Aktif",TVRI Nasional
+#EXTINF:3 tvg-id="TVRINasional.id"tvg-name="TVRI Nasional" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_118.jpg" ,TVRI Nasional
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(04)/index.m3u8
-#EXTINF:4 tvg-id="Indosiar.id"tvg-name="INDOSIAR" tvg-logo="https://www.mncvision.id/userfiles/image/channel/Indosiar.png" group-title="CH Aktif",Indosiar
+#EXTINF:4 tvg-id="Indosiar.id"tvg-name="INDOSIAR" tvg-logo="https://www.mncvision.id/userfiles/image/channel/Indosiar.png" ,Indosiar
 http://210.210.155.35/qwr9ew/s/s04/01.m3u8
 https://od.lk/s/MjVfMjM5Mjc4MDNf/20100925%20-%20Bars%20and%20Tone%2C%20in%201080p%20HD.mp4
-#EXTINF:5 tvg-id="RCTI.id"tvg-name="RCTI" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_80.png" group-title="CH Aktif",RCTI (Percobaan)
+#EXTINF:5 tvg-id="RCTI.id"tvg-name="RCTI" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_80.png" ,RCTI
 https://goldenlivektv.com/Live_TV/Channel_Rcti.m3u8
 https://od.lk/s/MjVfMjM5Mjc4MDNf/20100925%20-%20Bars%20and%20Tone%2C%20in%201080p%20HD.mp4
-#EXTINF:6 tvg-id="MNCTV.id"tvg-name="MNCTV" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_82.png" group-title="CH Aktif",MNCTV
+#EXTINF:6 tvg-id="MNCTV.id"tvg-name="MNCTV" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_82.png" ,MNCTV
 https://goldenlivektv.com/Live_TV/Channel_Mnctv.m3u8
-#EXTINF:7 tvg-id="SCTV.id"tvg-name="SCTV" tvg-logo="https://www.mncvision.id/userfiles/image/channel/sctv.png" group-title="CH Aktif",SCTV
+#EXTINF:7 tvg-id="SCTV.id"tvg-name="SCTV" tvg-logo="https://www.mncvision.id/userfiles/image/channel/sctv.png" ,SCTV
 http://45.126.83.51/qwr9ew/s/s03/01.m3u8
-#EXTINF:8 tvg-id="GTV.id"tvg-name="GTV" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_81.png" group-title="CH Aktif",GTV
+#EXTINF:8 tvg-id="GTV.id"tvg-name="GTV" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_81.png" ,GTV
 https://goldenlivektv.com/Live_TV/Channel_Gtv.m3u8
-#EXTINF:9 tvg-id="TVOne.id"tvg-name="TVONE" tvg-logo="https://www.mncvision.id/userfiles/image/channel/tvone.png" group-title="CH Aktif",TVONE
+#EXTINF:9 tvg-id="TVOne.id"tvg-name="TVONE" tvg-logo="https://www.mncvision.id/userfiles/image/channel/tvone.png" ,TVONE
 http://210.210.155.35/session/8ada75ba-2f85-11eb-9529-b82a72d63267/qwr9ew/s/s105/01.m3u8
-#EXTINF:10 tvg-id="MetroTV.id"tvg-name="Metro TV" tvg-logo="https://vmp-cms.telkomsel.com/sites/default/files/entry/0_29dapgr5/search_xhdpi.png" group-title="CH Aktif",Metro TV
+#EXTINF:10 tvg-id="MetroTV.id"tvg-name="Metro TV" tvg-logo="https://vmp-cms.telkomsel.com/sites/default/files/entry/0_29dapgr5/search_xhdpi.png" ,Metro TV
 https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(bd164a95-722d-40db-a596-687c8123f197)/manifest.mpd
-#EXTINF:11 tvg-id="Trans7.id"tvg-name="TRANS 7" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_110.png" group-title="CH Aktif",TRANS 7
+#EXTINF:11 tvg-id="Trans7.id"tvg-name="TRANS 7" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_110.png" ,TRANS 7
 https://video.detik.com/trans7/smil:trans7.smil/chunklist_kamiselaluada_b744100_sleng.m3u8
-#EXTINF:12 tvg-id="	NET.id"tvg-name="NET TV" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_116.jpg" group-title="CH Aktif",NET TV
+#EXTINF:12 tvg-id="	NET.id"tvg-name="NET TV" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_116.jpg" ,NET TV
 http://210.210.155.35/qwr9ew/s/s08/01.m3u8
 http://group2-swiftservesd-1.dens.tv/s/s08/01.m3u8
-#EXTINF:13 tvg-id="INews.id"tvg-name="iNEWS TV" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_83.png" group-title="CH Aktif",iNEWS TV
+#EXTINF:13 tvg-id="INews.id"tvg-name="iNEWS TV" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_83.png" ,iNEWS TV
 https://goldenlivektv.com/Live_TV/Channel_Inews.m3u8
 https://od.lk/s/MjVfMjM5Mjc4MDNf/20100925%20-%20Bars%20and%20Tone%2C%20in%201080p%20HD.mp4
-#EXTINF:14 tvg-id="BoomerangSouthEastAsia.us"tvg-name="BOOMERANG" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_39.jpg"group-title="CH Offline",BOOMERANG
+#EXTINF:14 tvg-id="BoomerangSouthEastAsia.us"tvg-name="BOOMERANG" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_39.jpg",BOOMERANG (Offline)
 http://mygoodstream.pw/proxy.php/http://31.220.41.88:8081/live/us-boomerang.stream/playlist.m3u8
 https://od.lk/s/MjVfMjM5Mjc4MDNf/20100925%20-%20Bars%20and%20Tone%2C%20in%201080p%20HD.mp4
-#EXTINF:15 tvg-id="CartoonNetworkAsia.us"tvg-name="Cartoon Network" tvg-logo="https://www.mncvision.id/userfiles/image/channel/cartoon_network.png" group-title="CH Offline",Cartoon Network
+#EXTINF:15 tvg-id="CartoonNetworkAsia.us"tvg-name="Cartoon Network" tvg-logo="https://www.mncvision.id/userfiles/image/channel/cartoon_network.png" ,Cartoon Network (Offilne)
 http://198.16.106.62:8278/streams/d/Cn/playlist.m3u8
 https://od.lk/s/MjVfMjM5Mjc4MDNf/20100925%20-%20Bars%20and%20Tone%2C%20in%201080p%20HD.mp4
-#EXTINF:16 tvg-id="Blue Ant"tvg-name="Blue Ant Entertaiment" tvg-logo="https://i.postimg.cc/ydsh330j/images-7.png" group-title="CH Aktif",Blue Ant Entertaiment
+#EXTINF:16 tvg-id="Blue Ant"tvg-name="Blue Ant Entertaiment" tvg-logo="https://i.postimg.cc/ydsh330j/images-7.png" ,Blue Ant Entertaiment
 http://210.210.155.35/session/04d2e2b6-3130-11eb-b6b9-b82a72d63267/dr9445/h/h16/01.m3u8
-#EXTINF:17 tvg-id="Blue Ant Extreme"tvg-name="Blue Ant Extreme" tvg-logo="https://i.postimg.cc/s29DxMj3/images-6.png" group-title="CH Aktif",Blue Ant Extreme
+#EXTINF:17 tvg-id="Blue Ant Extreme"tvg-name="Blue Ant Extreme" tvg-logo="https://i.postimg.cc/s29DxMj3/images-6.png" ,Blue Ant Extreme
 http://210.210.155.35/session/37f72a80-3130-11eb-a769-b82a72d63267/dr9445/h/h15/01.m3u8
-#EXTINF:18 tvg-id="NHKWorldJapan.jp"tvg-name="NHK World Japan" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/NHK_World.svg/1920px-NHK_World.svg.png" group-title="CH Aktif",NHK World Japan
+#EXTINF:18 tvg-id="NHKWorldJapan.jp"tvg-name="NHK World Japan" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/NHK_World.svg/1920px-NHK_World.svg.png" ,NHK World Japan
 https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_1M.m3u8
-#EXTINF:19 tvg-id="KBSWorld.kr"tvg-name="KBS World" tvg-logo="https://i.ibb.co/2sLJBHR/KBS.png" group-title="CH Offline",KBS World
+#EXTINF:19 tvg-id="KBSWorld.kr"tvg-name="KBS World" tvg-logo="https://i.ibb.co/2sLJBHR/KBS.png" ,KBS World (Offline)
 https://m3u-editor.com/serve/1f5c2f00-c50a-11eb-a9cf-49fb7da8769f/309066025
 https://od.lk/s/MjVfMjM5Mjc4MDNf/20100925%20-%20Bars%20and%20Tone%2C%20in%201080p%20HD.mp4
-#EXTINF:20 tvg-id="BeritaSatuHD.id"tvg-name="Berita Satu" tvg-logo="https://img2.pngdownload.id/20180806/wax/kisspng-beritasatu-com-logo-beritasatu-media-holdings-news-kumpulan-berita-harian-bisnis-ekonomi-terkini-5b687d0c685ac2.7574988515335744124274.jpg" group-title="CH Aktif",Berita Satu
+#EXTINF:20 tvg-id="BeritaSatuHD.id"tvg-name="Berita Satu" tvg-logo="https://img2.pngdownload.id/20180806/wax/kisspng-beritasatu-com-logo-beritasatu-media-holdings-news-kumpulan-berita-harian-bisnis-ekonomi-terkini-5b687d0c685ac2.7574988515335744124274.jpg" ,Berita Satu
 https://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8
-#EXTINF:21 tvg-id="NickelodeonSouthEastAsia.us"tvg-name="Nickelodeon" tvg-logo="https://www.mncvision.id/userfiles/image/channel/nickelodeon.png" group-title="CH Offline",Nickelodeon
+#EXTINF:21 tvg-id="NickelodeonSouthEastAsia.us"tvg-name="Nickelodeon" tvg-logo="https://www.mncvision.id/userfiles/image/channel/nickelodeon.png" ,Nickelodeon (Offline)
 http://198.16.106.62:8278/streams/d/Nickelodeon/playlist.m3u8
 https://od.lk/s/MjVfMjM5Mjc4MDNf/20100925%20-%20Bars%20and%20Tone%2C%20in%201080p%20HD.mp4
-#EXTINF:22 tvg-id="Nick Junior"tvg-name="Nick Junior" tvg-logo="https://www.mncvision.id/userfiles/image/channel/nickjr.jpg" group-title="CH Offline",Nick Junior
+#EXTINF:22 tvg-id="Nick Junior"tvg-name="Nick Junior" tvg-logo="https://www.mncvision.id/userfiles/image/channel/nickjr.jpg" ,Nick Junior (Offline)
 http://198.16.106.62:8278/streams/d/Nickjr/playlist.m3u8
 https://od.lk/s/MjVfMjM5Mjc4MDNf/20100925%20-%20Bars%20and%20Tone%2C%20in%201080p%20HD.mp4
-#EXTINF:23 tvg-id="CNN Indonesia ID"tvg-name="CNN Indonesia" tvg-logo="https://cdn.cnnindonesia.com/cnnid/images/logo_cnn_fav.png?v=10.1.9" group-title="CH Aktif",CNN Indonesia
+#EXTINF:23 tvg-id="CNN Indonesia ID"tvg-name="CNN Indonesia" tvg-logo="https://cdn.cnnindonesia.com/cnnid/images/logo_cnn_fav.png?v=10.1.9" ,CNN Indonesia
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w2136674526_b384000_sleng.m3u8
-#EXTINF:24 tvg-id="CNBC Indonesia ID"tvg-name="CNBC Indonesia" tvg-logo="https://cdn.cnbcindonesia.com/cnbc/images/logo_hitam.png?w=650" group-title="CH Aktif",CNBC Indonesia
+#EXTINF:24 tvg-id="CNBC Indonesia ID"tvg-name="CNBC Indonesia" tvg-logo="https://cdn.cnbcindonesia.com/cnbc/images/logo_hitam.png?w=650" ,CNBC Indonesia
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_kamiselaluada_b384000_sleng.m3u8
-#EXTINF:25 tvg-id="CNNInternationalAsia.us"tvg-name="CNN Internasional" tvg-logo="https://cdn.cnn.com/cnn/.e/img/3.0/global/misc/cnn-logo.png" group-title="CH Aktif",CNN Internasional
+#EXTINF:25 tvg-id="CNNInternationalAsia.us"tvg-name="CNN Internasional" tvg-logo="https://cdn.cnn.com/cnn/.e/img/3.0/global/misc/cnn-logo.png" ,CNN Internasional
 https://cnn-cnninternational-1-de.samsung.wurl.com/manifest/playlist_1280x720_3000k.m3u8
-#EXTINF:26 tvg-id=""tvg-name="SEA TODAY" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_336.png" group-title="CH Aktif",SEA TODAY
+#EXTINF:26 tvg-id=""tvg-name="SEA TODAY" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_336.png" ,SEA TODAY
 https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(9ce3f094-4044-467e-84b7-b684a49571d5)/manifest.mpd
-#EXTINF:27 tvg-id="TVRI Kanal 3"tvg-name="TVRI Kanal 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/1200px-TVRILogo2019.svg.png" group-title="CH Aktif",TVRI Kanal 3
+#EXTINF:27 tvg-id="TVRI Kanal 3"tvg-name="TVRI Kanal 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/1200px-TVRILogo2019.svg.png" ,TVRI Kanal 3
 http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI3)/Stream(03)/index.m3u8
-#EXTINF:28 tvg-id="JTV ID"tvg-name="JTV" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/8/8e/JTV_%282012%29.svg/1200px-JTV_%282012%29.png" group-title="CH Aktif",JTV
+#EXTINF:28 tvg-id="JTV ID"tvg-name="JTV" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/8/8e/JTV_%282012%29.svg/1200px-JTV_%282012%29.png" ,JTV
 https://cdn02.mola.tv/Content/HLS/Live/channel(f2cd666d-f350-1140-7ce5-3d7f39f84727)/08.m3u8
-#EXTINF:29 tvg-id="KompasTV.id"tvg-name="Kompas TV" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_106.png" group-title="CH Aktif",Kompas TV
+#EXTINF:29 tvg-id="KompasTV.id"tvg-name="Kompas TV" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_106.png" ,Kompas TV
 http://210.210.155.35/qwr9ew/s/s104/index.m3u8 
-#EXTINF:30 tvg-id="Spacetoon ID"tvg-name="Spacetoon" tvg-logo="https://upload.wikimedia.org/wikipedia/id/e/e3/Spacetoon.png" group-title="CH Aktif",Spacetoon
+#EXTINF:30 tvg-id="Spacetoon ID"tvg-name="Spacetoon" tvg-logo="https://upload.wikimedia.org/wikipedia/id/e/e3/Spacetoon.png" ,Spacetoon
 http://stream1.ninmedia.tv:1935/spacetoon/udp.stream_360p/playlist.m3u8
-#EXTINF:31 tvg-id="ESPN HD"tvg-name="ESPN HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/Espn.png" group-title="CH Aktif",ESPN HD
+#EXTINF:31 tvg-id="ESPN HD"tvg-name="ESPN HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/Espn.png" ,ESPN HD
 http://xcui.vitvabc.xyz:8880/287994000027/287994000027/31149?checkedby:iptvcat.com
-#EXTINF:32 tvg-id="AnimaxAsia.jp"tvg-name="Animax ID" tvg-logo="https://www.mncvision.id/userfiles/image/channel/Animax_150x150.png" group-title="CH Aktif",Animax ID
+#EXTINF:32 tvg-id="AnimaxAsia.jp"tvg-name="Animax ID" tvg-logo="https://www.mncvision.id/userfiles/image/channel/Animax_150x150.png" ,Animax ID
 http://playlist.urfan.web.id/dr9445/h/h144/01.m3u8
-#EXTINF:33 tvg-id="RTV.id"tvg-name="RTV" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTw9AixXe5LFItm_ArefcMOxaCZaeUjboDNOq9PXw=s900-c-k-c0x00ffffff-no-rj" group-title="CH Aktif",RTV
+#EXTINF:33 tvg-id="RTV.id"tvg-name="RTV" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTw9AixXe5LFItm_ArefcMOxaCZaeUjboDNOq9PXw=s900-c-k-c0x00ffffff-no-rj" ,RTV
 http://playlist.urfan.web.id/qwr9ew/s/s12/01.m3u8
-#EXTINF:34 tvg-id="TVRISportHD.id"tvg-name="TVRI SPORT HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/320px-TVRILogo2019.svg.png" group-title="CH Aktif",TVRI SPORT HD
+#EXTINF:34 tvg-id="TVRISportHD.id"tvg-name="TVRI SPORT HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/320px-TVRILogo2019.svg.png" ,TVRI SPORT HD
 http://118.97.50.107/Content/HLS/Live/Channel(TVRI4)/index.m3u8
-#EXTINF:35 tvg-id="RRI Net"tvg-name="RRI NET" tvg-logo="https://www.useetv.com/assets/images/channel/logo_rri_small1.png?v=2.0.0.13" group-title="CH Aktif",RRI NET
+#EXTINF:35 tvg-id="RRI Net"tvg-name="RRI NET" tvg-logo="https://www.useetv.com/assets/images/channel/logo_rri_small1.png?v=2.0.0.13" ,RRI NET
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=38db3aed920cf82ab059bfccbd02be6a268ef7e5a44f541a7cbde7626ef57566
-#EXTINF:36 tvg-id="AnimalPlanetSoutheastAsia.us"tvg-name="Animal Planet" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfoWm5_TjfCLozf4JAPG1MDzv0qfdjYIyMvw&usqp=CAU" group-title="CH Offline",Animal Planet
+#EXTINF:36 tvg-id="AnimalPlanetSoutheastAsia.us"tvg-name="Animal Planet" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfoWm5_TjfCLozf4JAPG1MDzv0qfdjYIyMvw&usqp=CAU" ,Animal Planet (Offline)
 https://od.lk/s/MjVfMjM5Mjc4MDNf/20100925%20-%20Bars%20and%20Tone%2C%20in%201080p%20HD.mp4
 http://50.7.161.82:8278/streams/d/AnimalPlanet/playlist.m3u8
-#EXTINF:37 tvg-id="CNBC Asia"tvg-name="CNBC Asia" tvg-logo="https://www.mncvision.id/userfiles/image/channel/cnbc.png" group-title="CH Aktif",CNBC Asia
+#EXTINF:37 tvg-id="CNBC Asia"tvg-name="CNBC Asia" tvg-logo="https://www.mncvision.id/userfiles/image/channel/cnbc.png" ,CNBC Asia
 https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLinux/amagi_hls_data_xumo1212A-xumo-nbcnewsnow/CDN/playlist.m3u8
-#EXTINF:38 tvg-id="Prambors"tvg-name="Prambors" tvg-logo="https://www.useetv.com/assets/images/channel/logo_pramborstv_small1.png?v=2.0.0.13" group-title="CH Aktif",Prambors
+#EXTINF:38 tvg-id="Prambors"tvg-name="Prambors" tvg-logo="https://www.useetv.com/assets/images/channel/logo_pramborstv_small1.png?v=2.0.0.13" ,Prambors
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=d2ddea18f00665ce8623e36bd4e3c7c5f93fb3c9879684db94f7af38b446022a
-#EXTINF:39 tvg-id="JakTV"tvg-name="JakTV" tvg-logo="https://vmp-cms.telkomsel.com/sites/default/files/entry/0_j3ctsfo0/search_xhdpi.png" group-title="CH Aktif",JakTV
+#EXTINF:39 tvg-id="JakTV"tvg-name="JakTV" tvg-logo="https://vmp-cms.telkomsel.com/sites/default/files/entry/0_j3ctsfo0/search_xhdpi.png" ,JakTV
 https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(7a73ed02-e0de-4df1-8da3-5abfd75f24bd)/manifest.mpd
-#EXTINF:40 tvg-id=""tvg-name="JAK TV" tvg-logo="" group-title="CH Offline",JAK TV
+#EXTINF:40 tvg-id=""tvg-name="JAK TV" tvg-logo="" ,JAK TV (Offline)
 https://iptv.mwafa.net/vidio/5415/index.m3u8?token=1999
-#EXTINF:41 tvg-id=""tvg-name="O Shop" tvg-logo="" group-title="CH Offline",O Shop
+#EXTINF:41 tvg-id=""tvg-name="O Shop" tvg-logo="" ,O Shop (Offline)
 https://iptv.mwafa.net/vidio/6166/index.m3u8?token=1999
-#EXTINF:42 tvg-id=""tvg-name="O Channel" tvg-logo="" group-title="CH Offline",O Channel
+#EXTINF:42 tvg-id=""tvg-name="O Channel" tvg-logo="" ,O Channel (Offline)
 https://iptv.mwafa.net/vidio/206/index.m3u8?token=1999
-#EXTINF:43 tvg-id=""tvg-name="Nusantara TV" tvg-logo="" group-title="CH Offline",Nusantara TV
+#EXTINF:43 tvg-id=""tvg-name="Nusantara TV" tvg-logo="" ,Nusantara TV (Offline)
 https://iptv.mwafa.net/vidio/7432/index.m3u8?token=1999
 
 
