@@ -141,8 +141,9 @@ https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(7a73ed02-e0de-4
 #EXT-X-STREAM-INF:BANDWIDTH=2628000,CODECS="avc1.4d0015,mp4a.40.5",RESOLUTION=1280x720,CLOSED-CAPTIONS=NONE
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1651948510/ei/fmd2YunlGJaIz7sPpaaQ-AQ/ip/140.0.116.67/id/7Ez2FHlZK-U.2/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maxh/2160/maudio/1/spc/4ocVCykFxIeRmD8nWm_xEfiyFPaDP6YUdblc-E6HYg/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAIOk_--r8rx5usDAbI6KstRgpPHW7R1TqEZ7WsCKN5_CAiEAwhuN7EW37UPpMDsmE6lTVUKaToz6jPJVrZDDTvf0yCY%3D/file/index.m3u8
 
-#EXTINF:41 tvg-id=""tvg-name="O Shop" tvg-logo="" ,O Shop (Offline)
-https://iptv.mwafa.net/vidio/6166/index.m3u8?token=1999
+#EXTINF:41 tvg-id=""tvg-name="Music Indo CH" tvg-logo="https://cdn.icon-icons.com/icons2/2429/PNG/512/youtube_logo_icon_147199.png" ,MTV CH (YT Source)
+#EXT-X-STREAM-INF:BANDWIDTH=2628000,CODECS="avc1.4d0015,mp4a.40.5",RESOLUTION=1280x720,CLOSED-CAPTIONS=NONE
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1651955319/ei/F4J2Yv_AK9OTg8UP0KuMmAc/ip/140.0.116.67/id/dB5nvf2ydLQ.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maxh/2160/maudio/1/gcr/id/spc/4ocVC8BdvgySEpH7d6_SeqY2HKA9xx7sZ0vlSoHE8w/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cgcr%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgQi_CQEMNkeAJZT6IJVjSKmLhu2-v029nu08-gj2KDFACIB0yTJNoyNOOjy2093-2UcsiDFBlM4FRrrEVwr1d4r7y/file/index.m3u8
 
 #EXTINF:42 tvg-id=""tvg-name="O Channel" tvg-logo="" ,O Channel (Offline)
 https://iptv.mwafa.net/vidio/206/index.m3u8?token=1999
