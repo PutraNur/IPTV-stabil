@@ -7,8 +7,10 @@
 
 #EXTINF:1 tvg-id="TransTV.id"tvg-name="TRANS TV" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_87.png" ,TransTV
 https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
+
 #EXTINF:2 tvg-id="ANTV.id"tvg-name="ANTV" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_115.png" ,ANTV
 http://210.210.155.35/qwr9ew/s/s07/01.m3u8
+
 #EXTINF:3 tvg-id="TVRINasional.id"tvg-name="TVRI Nasional" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_118.jpg" ,TVRI Nasional
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(04)/index.m3u8
 #EXTINF:4 tvg-id="Indosiar.id"tvg-name="INDOSIAR" tvg-logo="https://www.mncvision.id/userfiles/image/channel/Indosiar.png" ,Indosiar
@@ -17,14 +19,19 @@ https://od.lk/s/MjVfMjM5Mjc4MDNf/20100925%20-%20Bars%20and%20Tone%2C%20in%201080
 #EXTINF:5 tvg-id="RCTI.id"tvg-name="RCTI" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_80.png" ,RCTI
 https://goldenlivektv.com/Live_TV/Channel_Rcti.m3u8
 https://od.lk/s/MjVfMjM5Mjc4MDNf/20100925%20-%20Bars%20and%20Tone%2C%20in%201080p%20HD.mp4
+
 #EXTINF:6 tvg-id="MNCTV.id"tvg-name="MNCTV" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_82.png" ,MNCTV
 https://goldenlivektv.com/Live_TV/Channel_Mnctv.m3u8
+
 #EXTINF:7 tvg-id="SCTV.id"tvg-name="SCTV" tvg-logo="https://www.mncvision.id/userfiles/image/channel/sctv.png" ,SCTV
 http://45.126.83.51/qwr9ew/s/s03/01.m3u8
+
 #EXTINF:8 tvg-id="GTV.id"tvg-name="GTV" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_81.png" ,GTV
 https://goldenlivektv.com/Live_TV/Channel_Gtv.m3u8
+
 #EXTINF:9 tvg-id="TVOne.id"tvg-name="TVONE" tvg-logo="https://www.mncvision.id/userfiles/image/channel/tvone.png" ,TVONE
 http://210.210.155.35/session/8ada75ba-2f85-11eb-9529-b82a72d63267/qwr9ew/s/s105/01.m3u8
+
 #EXTINF:10 tvg-id="MetroTV.id"tvg-name="Metro TV" tvg-logo="https://vmp-cms.telkomsel.com/sites/default/files/entry/0_29dapgr5/search_xhdpi.png" ,Metro TV
 https://od.lk/s/MjVfMjM5Mjc4MDNf/20100925%20-%20Bars%20and%20Tone%2C%20in%201080p%20HD.mp4
 https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(bd164a95-722d-40db-a596-687c8123f197)/manifest.mpd
