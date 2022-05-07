@@ -40,7 +40,7 @@ https://od.lk/s/MjVfMjM5Mjc4MDNf/20100925%20-%20Bars%20and%20Tone%2C%20in%201080
 
 #EXTINF:13 tvg-id="INews.id"tvg-name="iNEWS TV" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_83.png" ,iNEWS TV
 https://goldenlivektv.com/Live_TV/Channel_Inews.m3u8
-https://od.lk/s/MjVfMjM5Mjc4MDNf/20100925%20-%20Bars%20and%20Tone%2C%20in%201080p%20HD.mp4
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1651948510/ei/fmd2YunlGJaIz7sPpaaQ-AQ/ip/140.0.116.67/id/7Ez2FHlZK-U.2/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maxh/2160/maudio/1/spc/4ocVCykFxIeRmD8nWm_xEfiyFPaDP6YUdblc-E6HYg/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAIOk_--r8rx5usDAbI6KstRgpPHW7R1TqEZ7WsCKN5_CAiEAwhuN7EW37UPpMDsmE6lTVUKaToz6jPJVrZDDTvf0yCY%3D/file/index.m3u8
 
 #EXTINF:14 tvg-id="BoomerangSouthEastAsia.us"tvg-name="BOOMERANG" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_39.jpg",BOOMERANG (Offline)
 https://od.lk/s/MjVfMjM5Mjc4MDNf/20100925%20-%20Bars%20and%20Tone%2C%20in%201080p%20HD.mp4
