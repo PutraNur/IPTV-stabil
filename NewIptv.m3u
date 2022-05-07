@@ -43,13 +43,16 @@ https://od.lk/s/MjVfMjM5Mjc4MDNf/20100925%20-%20Bars%20and%20Tone%2C%20in%201080
 #EXTINF:12 tvg-id="NET.id"tvg-name="NET TV" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_116.jpg" ,NET TV
 #EXT-X-STREAM-INF:BANDWIDTH=2628000,CODECS="avc1.4d0015,mp4a.40.5",RESOLUTION=1280x720,CLOSED-CAPTIONS=NONE
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1651949764/ei/ZGx2Yt2sGcmFjuMPssWR0AE/ip/140.0.116.67/id/7qAJ5exbTGA.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maxh/2160/maudio/1/spc/4ocVC0FSVRl5qWJsMs85orNubkNg7LObIgq-vDk88Q/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAPKLHx5bX_G7l9PJ04QBNr6tFA-qXTI0qmPXR6Ce1MQrAiEAtK4wMhTcSPtU5u7VAtwWQ2AayCywm9tAiOEKiX8F_4E%3D/file/index.m3u8
+
 #EXT-X-STREAM-INF:BANDWIDTH=2628000,CODECS="avc1.4d0015,mp4a.40.5",RESOLUTION=1280x720,CLOSED-CAPTIONS=NONE
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1651953250/ei/AXp2YpedOrPRz7sP866v0A8/ip/140.0.116.67/id/pdK2TNC_6dA.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maxh/2160/maudio/1/spc/4ocVC6wbTP_Shrxb8YdTquc9TjS4K0n0jgGZhyqw4g/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhANVo6v7UwqTpSF47rZ0v4K6u1k9LzTH7yr2DX-A39ObZAiBm4ZO43tztQVFleukob7abor9vOm0YHkGvEbYkZ6eFtw%3D%3D/file/index.m3u8
+
 
 #EXTINF:13 tvg-id="INews.id"tvg-name="iNEWS TV" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_83.png" ,iNEWS TV
 https://goldenlivektv.com/Live_TV/Channel_Inews.m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=2628000,CODECS="avc1.4d0015,mp4a.40.5",RESOLUTION=1280x720,CLOSED-CAPTIONS=NONE
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1651953250/ei/AXp2YpedOrPRz7sP866v0A8/ip/140.0.116.67/id/pdK2TNC_6dA.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maxh/2160/maudio/1/spc/4ocVC6wbTP_Shrxb8YdTquc9TjS4K0n0jgGZhyqw4g/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhANVo6v7UwqTpSF47rZ0v4K6u1k9LzTH7yr2DX-A39ObZAiBm4ZO43tztQVFleukob7abor9vOm0YHkGvEbYkZ6eFtw%3D%3D/file/index.m3u8
+
 
 #EXTINF:14 tvg-id="BoomerangSouthEastAsia.us"tvg-name="BOOMERANG" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_39.jpg",BOOMERANG (Offline)
 http://mygoodstream.pw/proxy.php/http://31.220.41.88:8081/live/us-boomerang.stream/playlist.m3u8
