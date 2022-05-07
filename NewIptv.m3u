@@ -41,32 +41,41 @@ https://od.lk/s/MjVfMjM5Mjc4MDNf/20100925%20-%20Bars%20and%20Tone%2C%20in%201080
 
 #EXTINF:13 tvg-id="INews.id"tvg-name="iNEWS TV" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_83.png" ,iNEWS TV
 https://goldenlivektv.com/Live_TV/Channel_Inews.m3u8
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1651948510/ei/fmd2YunlGJaIz7sPpaaQ-AQ/ip/140.0.116.67/id/7Ez2FHlZK-U.2/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maxh/2160/maudio/1/spc/4ocVCykFxIeRmD8nWm_xEfiyFPaDP6YUdblc-E6HYg/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAIOk_--r8rx5usDAbI6KstRgpPHW7R1TqEZ7WsCKN5_CAiEAwhuN7EW37UPpMDsmE6lTVUKaToz6jPJVrZDDTvf0yCY%3D/file/index.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=2628000,CODECS="avc1.4d0015,mp4a.40.5",RESOLUTION=1280x720,CLOSED-CAPTIONS=NONE
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1651953250/ei/AXp2YpedOrPRz7sP866v0A8/ip/140.0.116.67/id/pdK2TNC_6dA.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maxh/2160/maudio/1/spc/4ocVC6wbTP_Shrxb8YdTquc9TjS4K0n0jgGZhyqw4g/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhANVo6v7UwqTpSF47rZ0v4K6u1k9LzTH7yr2DX-A39ObZAiBm4ZO43tztQVFleukob7abor9vOm0YHkGvEbYkZ6eFtw%3D%3D/file/index.m3u8
 
 #EXTINF:14 tvg-id="BoomerangSouthEastAsia.us"tvg-name="BOOMERANG" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_39.jpg",BOOMERANG (Offline)
-https://od.lk/s/MjVfMjM5Mjc4MDNf/20100925%20-%20Bars%20and%20Tone%2C%20in%201080p%20HD.mp4
 http://mygoodstream.pw/proxy.php/http://31.220.41.88:8081/live/us-boomerang.stream/playlist.m3u8
+https://od.lk/s/MjVfMjM5Mjc4MDNf/20100925%20-%20Bars%20and%20Tone%2C%20in%201080p%20HD.mp4
 
 #EXTINF:15 tvg-id="CartoonNetworkAsia.us"tvg-name="Cartoon Network" tvg-logo="https://www.mncvision.id/userfiles/image/channel/cartoon_network.png" ,Cartoon Network (Offilne)
 http://198.16.106.62:8278/streams/d/Cn/playlist.m3u8
 https://od.lk/s/MjVfMjM5Mjc4MDNf/20100925%20-%20Bars%20and%20Tone%2C%20in%201080p%20HD.mp4
+
 #EXTINF:16 tvg-id="Blue Ant"tvg-name="Blue Ant Entertaiment" tvg-logo="https://i.postimg.cc/ydsh330j/images-7.png" ,Blue Ant Entertaiment
 http://210.210.155.35/session/04d2e2b6-3130-11eb-b6b9-b82a72d63267/dr9445/h/h16/01.m3u8
+
 #EXTINF:17 tvg-id="Blue Ant Extreme"tvg-name="Blue Ant Extreme" tvg-logo="https://i.postimg.cc/s29DxMj3/images-6.png" ,Blue Ant Extreme
 http://210.210.155.35/session/37f72a80-3130-11eb-a769-b82a72d63267/dr9445/h/h15/01.m3u8
+
 #EXTINF:18 tvg-id="NHKWorldJapan.jp"tvg-name="NHK World Japan" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/NHK_World.svg/1920px-NHK_World.svg.png" ,NHK World Japan
 https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_1M.m3u8
+
 #EXTINF:19 tvg-id="KBSWorld.kr"tvg-name="KBS World" tvg-logo="https://i.ibb.co/2sLJBHR/KBS.png" ,KBS World (Offline)
 https://m3u-editor.com/serve/1f5c2f00-c50a-11eb-a9cf-49fb7da8769f/309066025
 https://od.lk/s/MjVfMjM5Mjc4MDNf/20100925%20-%20Bars%20and%20Tone%2C%20in%201080p%20HD.mp4
+
 #EXTINF:20 tvg-id="BeritaSatuHD.id"tvg-name="Berita Satu" tvg-logo="https://img2.pngdownload.id/20180806/wax/kisspng-beritasatu-com-logo-beritasatu-media-holdings-news-kumpulan-berita-harian-bisnis-ekonomi-terkini-5b687d0c685ac2.7574988515335744124274.jpg" ,Berita Satu
 https://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8
+
 #EXTINF:21 tvg-id="NickelodeonSouthEastAsia.us"tvg-name="Nickelodeon" tvg-logo="https://www.mncvision.id/userfiles/image/channel/nickelodeon.png" ,Nickelodeon (Offline)
 http://198.16.106.62:8278/streams/d/Nickelodeon/playlist.m3u8
 https://od.lk/s/MjVfMjM5Mjc4MDNf/20100925%20-%20Bars%20and%20Tone%2C%20in%201080p%20HD.mp4
+
 #EXTINF:22 tvg-id="Nick Junior"tvg-name="Nick Junior" tvg-logo="https://www.mncvision.id/userfiles/image/channel/nickjr.jpg" ,Nick Junior (Offline)
 http://198.16.106.62:8278/streams/d/Nickjr/playlist.m3u8
 https://od.lk/s/MjVfMjM5Mjc4MDNf/20100925%20-%20Bars%20and%20Tone%2C%20in%201080p%20HD.mp4
+
 #EXTINF:23 tvg-id="CNN Indonesia ID"tvg-name="CNN Indonesia" tvg-logo="https://cdn.cnnindonesia.com/cnnid/images/logo_cnn_fav.png?v=10.1.9" ,CNN Indonesia
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w2136674526_b384000_sleng.m3u8
 #EXTINF:24 tvg-id="CNBC Indonesia ID"tvg-name="CNBC Indonesia" tvg-logo="https://cdn.cnbcindonesia.com/cnbc/images/logo_hitam.png?w=650" ,CNBC Indonesia
