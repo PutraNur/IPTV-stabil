@@ -143,6 +143,7 @@ https://live-production.secureswiftcontent.com/exp=1652009131~acl=/hls-p/ingest_
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
 https://live-production.secureswiftcontent.com/exp=1652008679~acl=/hls-p/ingest_7092_*/*~hmac=4dfe732f355056bb561f661402975dae74cbac0bbdf293a7157663021564ebee/hls-p/ingest_7092_480p/index.m3u8
 
-#EXTINF:43 tvg-id="Su ara Surabaya FM"tvg-name="Suara Surabaya FM" tvg-logo="https://live.staticflickr.com/69/199324240_7e0861bd2a_b.jpg" ,Suara Surabaya FM
+#EXTINF:43 tvg-id="Suara Surabaya FM"tvg-name="Suara Surabaya FM" tvg-logo="https://live.staticflickr.com/69/199324240_7e0861bd2a_b.jpg" ,Suara Surabaya FM
+#EXT-X-STREAM-INF:BANDWIDTH=144000,CODECS="mp4a.40.2",RESOLUTION=1280x720
 https://ssfm.siar.us/ssfm/live/chunks.m3u8?nimblesessionid=7683063
 
