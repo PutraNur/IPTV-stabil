@@ -36,7 +36,7 @@ https://d322b885qvsbxg.cloudfront.net/GTV2021.m3u8
 http://210.210.155.35/session/8ada75ba-2f85-11eb-9529-b82a72d63267/qwr9ew/s/s105/01.m3u8
 
 #EXTINF:11 tvg-id="MetroTV.id"tvg-name="Metro TV" tvg-logo="https://vmp-cms.telkomsel.com/sites/default/files/entry/0_29dapgr5/search_xhdpi.png" ,Metro TV
-https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(bd164a95-722d-40db-a596-687c8123f197)/manifest.mpd
+https://stream-05.sg1.dailymotion.com/sec(CFYS0CyzC0phI1myd5MCS2dd4_sftnlDjlKCmXPUjve9GBl4gjg61qylF3Sb3Z5p)/dm/3/x75p70w/d/live-3.m3u8
 
 #EXTINF:12 tvg-id="Trans7.id"tvg-name="TRANS 7" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_110.png" ,TRANS 7
 https://stream-05.sg1.dailymotion.com/sec(hq_e0q5VHX_FvDCk_Uz4GyvdVHm1KedVlm_zU117Ii3Y_x45WHGRqtGS0zVAxZqq)/dm/3/x6p1gw7/d/live-3.m3u8
@@ -44,7 +44,8 @@ https://video.detik.com/trans7/smil:trans7.smil/chunklist_kamiselaluada_b744100_
 
 #EXTINF:13 tvg-id="NET.id"tvg-name="NET TV" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_116.jpg" ,NET TV
 #EXT-X-STREAM-INF:BANDWIDTH=144000,CODECS="mp4a.40.2",RESOLUTION=1280x720,CLOSED-CAPTIONS=NONE
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1651997009/ei/8SR3YtCsDLCGjuMPyPCGiAQ/ip/140.0.116.67/id/7qAJ5exbTGA.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maxh/2160/maudio/1/spc/4ocVC8cRaerghz_OKLsx2qLEqdxz58Pv5dGsnqVRVQ/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAPCFPzqaUoQIkYRjvgreku8POGtLyn9ZlUYayglzA17OAiEArNCYGQN60nmJe9wLtvClKyWJTEpx6HAU2x6etATDG6U%3D/file/index.m3u8
+#EXTVLCOPT:http-referrer=https://www.useetv.com/
+https://cdn10jtedge.useetv.com/joss/133/net/chunklist_w579419137_b2544100_sleng.m3u8?enc=e4EbnId9ikbkTSkyuMgk-Q&uid=&exp=1652010991
 
 #EXTINF:14 tvg-id="INews.id"tvg-name="iNEWS TV" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_83.png" ,iNEWS TV
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
@@ -105,7 +106,8 @@ http://xcui.vitvabc.xyz:8880/287994000027/287994000027/31149?checkedby:iptvcat.c
 http://playlist.urfan.web.id/dr9445/h/h144/01.m3u8
 
 #EXTINF:33 tvg-id="RTV.id"tvg-name="RTV" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTw9AixXe5LFItm_ArefcMOxaCZaeUjboDNOq9PXw=s900-c-k-c0x00ffffff-no-rj" ,RTV
-http://playlist.urfan.web.id/qwr9ew/s/s12/01.m3u8
+#EXTVLCOPT:http-referrer=https://www.useetv.com/
+https://cdn13jtedge.useetv.com/joss/130/rtv/chunklist_w883481884_b1004100_sleng.m3u8?enc=d5I6xgP0JzE-U3ztY6gcsw&uid=&exp=1652011394
 
 #EXTINF:34 tvg-id="TVRISportHD.id"tvg-name="TVRI SPORT HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/320px-TVRILogo2019.svg.png" ,TVRI SPORT HD
 http://118.97.50.107/Content/HLS/Live/Channel(TVRI4)/index.m3u8
@@ -113,24 +115,24 @@ http://118.97.50.107/Content/HLS/Live/Channel(TVRI4)/index.m3u8
 #EXTINF:35 tvg-id="RRI Net"tvg-name="RRI NET" tvg-logo="https://www.useetv.com/assets/images/channel/logo_rri_small1.png?v=2.0.0.13" ,RRI NET
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=38db3aed920cf82ab059bfccbd02be6a268ef7e5a44f541a7cbde7626ef57566
 
-#EXTINF:36 tvg-id="AnimalPlanetSoutheastAsia.us"tvg-name="Animal Planet" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfoWm5_TjfCLozf4JAPG1MDzv0qfdjYIyMvw&usqp=CAU" ,Animal Planet (Offline)
-http://50.7.161.82:8278/streams/d/AnimalPlanet/playlist.m3u8
+#EXTINF:36 tvg-id="Magna TV"tvg-name="Magna TV" tvg-logo="https://thumbor.prod.vid.id/M86RraxZ0ZP4NnxvbwVBOCXaZ9M=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/7230/7d6bf5.jpg" ,Magna TV
+https://edge.medcom.id/live-edge/smil:magna.smil/chunklist_w1439771898_b3884000_sleng.m3u8
 
 #EXTINF:37 tvg-id="CNBC Asia"tvg-name="CNBC Asia" tvg-logo="https://www.mncvision.id/userfiles/image/channel/cnbc.png" ,CNBC Asia
 https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLinux/amagi_hls_data_xumo1212A-xumo-nbcnewsnow/CDN/playlist.m3u8
+
+#EXTINF:39 tvg-id="JakTV"tvg-name="JakTV" tvg-logo="https://vmp-cms.telkomsel.com/sites/default/files/entry/0_j3ctsfo0/search_xhdpi.png" ,JakTV
+https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(7a73ed02-e0de-4df1-8da3-5abfd75f24bd)/manifest.mpd
+
+#EXTINF:40 tvg-id="Mentari TV"tvg-name="Mentari TV" tvg-logo="https://thumbor.prod.vid.id/NlKuedj4cpv-SrNGEi26Ce4AFd4=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/8237/18585d.png" ,Mentari TV
+#EXTVLCOPT:http-referrer=https://www.vidio.com/
+https://etslive-2-vidio-com.akamaized.net/exp=1652017902~acl=/hls-p/ingest_8237_*/*~hmac=692d270c3cf18510461947e378f4b490378d09c857afbd809bb04e41fc3390fb/hls-p/ingest_8237_720p/index.m3u8
 
 #EXTINF:38 tvg-id="Prambors"tvg-name="Prambors" tvg-logo="https://thumbor.prod.vid.id/LXg-Kd3Sea2o60Wvw82XXsnzTUw=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/7004/12f134.png" ,Prambors
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
 https://live-production.secureswiftcontent.com/exp=1652008362~acl=/hls-p/ingest_7004_*/*~hmac=1664153d8f4368bf3105a1038e48a0612295d90cde3d36b4d139b783f7d48e78/hls-p/ingest_7004_480p/index.m3u8
 
-#EXTINF:39 tvg-id="JakTV"tvg-name="JakTV" tvg-logo="https://vmp-cms.telkomsel.com/sites/default/files/entry/0_j3ctsfo0/search_xhdpi.png" ,JakTV
-https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(7a73ed02-e0de-4df1-8da3-5abfd75f24bd)/manifest.mpd
-
-#EXTINF:40 tvg-id="Music Indo CH"tvg-name="Music Indo CH" tvg-logo="https://cdn.icon-icons.com/icons2/2429/PNG/512/youtube_logo_icon_147199.png" ,Music Indo CH
-#EXT-X-STREAM-INF:BANDWIDTH=144000,CODECS="mp4a.40.2",RESOLUTION=1280x720,CLOSED-CAPTIONS=NONE
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1651997535/ei/_yZ3YqmVJ6T64-EP7saosA4/ip/140.0.116.67/id/RjhpdawepRs.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/4ocVC2Svhe3K_GCJMv6U8uBsW32X/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgNnHfwuB-iSGXMl4mpOVA9i6oT7suC8eKJT7oo0jLdxMCIGUbhZqyuKVqT3L9yiUxC6JGzu0KoFYxfjLHgdcCV4tt/file/index.m3u8
-
-#EXTINF:41 tvg-id="Gen FM Jakarta"tvg-name="Gen FM Jakarta" tvg-logo="https://thumbor.prod.vid.id/t0w0aCC9pRwfB9We3mLueL3S34E=/172x96/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7446/gen-fm-surabaya-1cafa7.jpg" ,MTV CH (Offline)
+#EXTINF:41 tvg-id="Gen FM Surabaya"tvg-name="Gen FM Surabaya" tvg-logo="https://thumbor.prod.vid.id/t0w0aCC9pRwfB9We3mLueL3S34E=/172x96/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7446/gen-fm-surabaya-1cafa7.jpg" ,Gen FM Surabaya
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
 https://live-production.secureswiftcontent.com/exp=1652009131~acl=/hls-p/ingest_7446_*/*~hmac=a289e6e6e18bab79e50f70c324f02c8e05065f0f56df8c99d9b7d5181dd0d335/hls-p/ingest_7446_480p/index.m3u8
 
