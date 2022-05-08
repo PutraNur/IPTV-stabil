@@ -1,7 +1,4 @@
-#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/mncvision.id.guide.xml
-#EXTM3U url-tvg="https://raw.githubusercontent.com/PutraNur/IPTV-stabil/master/EPG.xml
-#EXTM3U url-tvg="http://epg.it999.ru/epg.xml
-#EXTM3U url-tvg="https://bit.ly/3yx3KgT
+#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/bf/canalplus-afrique.com.epg.xml,https://iptv-org.github.io/epg/guides/dk/allente.se.epg.xml,https://iptv-org.github.io/epg/guides/gr/cosmote.gr.epg.xml,https://iptv-org.github.io/epg/guides/id-en/mncvision.id.epg.xml,https://iptv-org.github.io/epg/guides/id/transvision.co.id.epg.xml,https://iptv-org.github.io/epg/guides/id/vidio.com.epg.xml,https://iptv-org.github.io/epg/guides/it/guidatv.sky.it.epg.xml,https://iptv-org.github.io/epg/guides/my/astro.com.my.epg.xml,https://iptv-org.github.io/epg/guides/nl/delta.nl.epg.xml,https://iptv-org.github.io/epg/guides/tr/digiturk.com.tr.epg.xml,https://iptv-org.github.io/epg/guides/uk/bt.com.epg.xml"
 
 
 
