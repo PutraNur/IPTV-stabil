@@ -131,8 +131,9 @@ https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(7a73ed02-e0de-4
 https://etslive-2-vidio-com.akamaized.net/exp=1652017902~acl=/hls-p/ingest_8237_*/*~hmac=692d270c3cf18510461947e378f4b490378d09c857afbd809bb04e41fc3390fb/hls-p/ingest_8237_720p/index.m3u8
 
 #EXTINF:38 tvg-id="Prambors"tvg-name="Prambors" tvg-logo="https://thumbor.prod.vid.id/LXg-Kd3Sea2o60Wvw82XXsnzTUw=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/7004/12f134.png" ,Prambors
+#EXT-X-STREAM-INF:BANDWIDTH=144000,CODECS="mp4a.40.2",RESOLUTION=1280x720
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
-https://live-production.secureswiftcontent.com/exp=1652008362~acl=/hls-p/ingest_7004_*/*~hmac=1664153d8f4368bf3105a1038e48a0612295d90cde3d36b4d139b783f7d48e78/hls-p/ingest_7004_480p/index.m3u8
+https://live-production.secureswiftcontent.com/exp=1652022974~acl=/hls-p/ingest_7004_*/*~hmac=b3ca17309a7a850992c29583dddbb13dedf74551748f1369ada25184b12b8df9/hls-p/ingest_7004_480p/index.m3u8
 
 #EXTINF:41 tvg-id="Gen FM Surabaya"tvg-name="Gen FM Surabaya" tvg-logo="https://thumbor.prod.vid.id/t0w0aCC9pRwfB9We3mLueL3S34E=/172x96/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7446/gen-fm-surabaya-1cafa7.jpg" ,Gen FM Surabaya
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
@@ -142,6 +143,6 @@ https://live-production.secureswiftcontent.com/exp=1652009131~acl=/hls-p/ingest_
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
 https://live-production.secureswiftcontent.com/exp=1652008679~acl=/hls-p/ingest_7092_*/*~hmac=4dfe732f355056bb561f661402975dae74cbac0bbdf293a7157663021564ebee/hls-p/ingest_7092_480p/index.m3u8
 
-#EXTINF:43 tvg-id="Suara Surabaya FM"tvg-name="Suara Surabaya FM" tvg-logo="https://live.staticflickr.com/69/199324240_7e0861bd2a_b.jpg" ,Suara Surabaya FM
+#EXTINF:43 tvg-id="Su ara Surabaya FM"tvg-name="Suara Surabaya FM" tvg-logo="https://live.staticflickr.com/69/199324240_7e0861bd2a_b.jpg" ,Suara Surabaya FM
 https://ssfm.siar.us/ssfm/live/chunks.m3u8?nimblesessionid=7683063
 
