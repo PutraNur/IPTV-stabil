@@ -131,17 +131,19 @@ https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(7a73ed02-e0de-4
 https://etslive-2-vidio-com.akamaized.net/exp=1652017902~acl=/hls-p/ingest_8237_*/*~hmac=692d270c3cf18510461947e378f4b490378d09c857afbd809bb04e41fc3390fb/hls-p/ingest_8237_720p/index.m3u8
 
 #EXTINF:38 tvg-id="Prambors"tvg-name="Prambors" tvg-logo="https://thumbor.prod.vid.id/LXg-Kd3Sea2o60Wvw82XXsnzTUw=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/7004/12f134.png" ,Prambors
-#EXT-X-STREAM-INF:BANDWIDTH=144000,CODECS="mp4a.40.2",RESOLUTION=1280x720
+#EXT-X-STREAM-INF:BANDWIDTH=144000,CODECS="mp4a.40.2"
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
 https://live-production.secureswiftcontent.com/exp=1652022974~acl=/hls-p/ingest_7004_*/*~hmac=b3ca17309a7a850992c29583dddbb13dedf74551748f1369ada25184b12b8df9/hls-p/ingest_7004_480p/index.m3u8
 
 #EXTINF:41 tvg-id="Gen FM Surabaya"tvg-name="Gen FM Surabaya" tvg-logo="https://thumbor.prod.vid.id/t0w0aCC9pRwfB9We3mLueL3S34E=/172x96/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7446/gen-fm-surabaya-1cafa7.jpg" ,Gen FM Surabaya
+#EXT-X-STREAM-INF:BANDWIDTH=144000,CODECS="mp4a.40.2"
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
 https://live-production.secureswiftcontent.com/exp=1652009131~acl=/hls-p/ingest_7446_*/*~hmac=a289e6e6e18bab79e50f70c324f02c8e05065f0f56df8c99d9b7d5181dd0d335/hls-p/ingest_7446_480p/index.m3u8
 
 #EXTINF:42 tvg-id="Delta FM"tvg-name="Delta FM" tvg-logo="https://thumbor.prod.vid.id/xpFtUOUrkJU8WgXFlfmsdM45G2M=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/7092/1f3060.jpg" ,Delta FM
+#EXT-X-STREAM-INF:BANDWIDTH=144000,CODECS="mp4a.40.2"
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
-https://live-production.secureswiftcontent.com/exp=1652008679~acl=/hls-p/ingest_7092_*/*~hmac=4dfe732f355056bb561f661402975dae74cbac0bbdf293a7157663021564ebee/hls-p/ingest_7092_480p/index.m3u8
+https://live-production.secureswiftcontent.com/exp=1652028635~acl=/hls-p/ingest_7092_*/*~hmac=7c3a44a2a2ae6c5602d0cac68b7055cf88a59ab76ed4393f59afcbf38d0c9988/hls-p/ingest_7092_480p/index.m3u8
 
 #EXTINF:43 tvg-id="Suara Surabaya FM"tvg-name="Suara Surabaya FM" tvg-logo="https://live.staticflickr.com/69/199324240_7e0861bd2a_b.jpg" ,Suara Surabaya FM
 #EXT-X-STREAM-INF:BANDWIDTH=144000,CODECS="mp4a.40.2",RESOLUTION=1280x720
