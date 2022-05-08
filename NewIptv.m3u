@@ -27,7 +27,8 @@ https://goldenlivektv.com/Live_TV/Channel_Mnctv.m3u8
 http://45.126.83.51/qwr9ew/s/s03/01.m3u8
 
 #EXTINF:8 tvg-id="GTV.id"tvg-name="GTV" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_81.png" ,GTV
-https://goldenlivektv.com/Live_TV/Channel_Gtv.m3u8
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://d322b885qvsbxg.cloudfront.net/GTV2021.m3u8
 
 #EXTINF:9 tvg-id="TVOne.id"tvg-name="TVONE" tvg-logo="https://www.mncvision.id/userfiles/image/channel/tvone.png" ,TVONE
 http://210.210.155.35/session/8ada75ba-2f85-11eb-9529-b82a72d63267/qwr9ew/s/s105/01.m3u8
