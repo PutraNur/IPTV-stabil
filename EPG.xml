@@ -1,9 +1,1 @@
-<?xml version="1.0" encoding="UTF-8" ?><tv>
-<channel id="CNN Indonesia ID"><display-name>CNN Indonesia</display-name><url>http://www.transvision.co.id/jadwalacara/epg.html</url></channel>
-<channel id="CNBC Indonesia ID"><display-name>CNBC Indonesia</display-name><url>http://www.transvision.co.id/jadwalacara/epg.html</url></channel>
-<channel id="Spacetoon ID"><display-name>Spacetoon</display-name><url>https://www.spacetoon.id/jadwal-tayang/</url></channel>
-<channel id="Blue Ant"><display-name>Spacetoon</display-name><url>https://www.useetv.com/livetv/blueant</url></channel>
-<channel id="Blue Ant Extreme"><display-name>Spacetoon</display-name><url>https://www.useetv.com/livetv/blueantextreme</url></channel>
-<channel id="JTV ID"><display-name>JTV</display-name><url>http://www.useetv.com/livetv/jtv</url></channel>
-<channel id="MTV LIVE.us"><display-name>MTV LIVE</display-name><url>https://www.useetv.com/livetv/mtvlive</url></channel>
-<channel id="TVRISportHD.id"><display-name>TVRI SPORT HD</display-name><url>dens.tv</url></channel>
+#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/bf/canalplus-afrique.com.epg.xml,https://iptv-org.github.io/epg/guides/dk/allente.se.epg.xml,https://iptv-org.github.io/epg/guides/gr/cosmote.gr.epg.xml,https://iptv-org.github.io/epg/guides/id-en/mncvision.id.epg.xml,https://iptv-org.github.io/epg/guides/id/transvision.co.id.epg.xml,https://iptv-org.github.io/epg/guides/id/vidio.com.epg.xml,https://iptv-org.github.io/epg/guides/it/guidatv.sky.it.epg.xml,https://iptv-org.github.io/epg/guides/my/astro.com.my.epg.xml,https://iptv-org.github.io/epg/guides/nl/delta.nl.epg.xml,https://iptv-org.github.io/epg/guides/tr/digiturk.com.tr.epg.xml,https://iptv-org.github.io/epg/guides/uk/bt.com.epg.xml"
