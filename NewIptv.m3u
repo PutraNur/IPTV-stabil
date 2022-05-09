@@ -30,7 +30,7 @@ http://45.126.83.51/qwr9ew/s/s03/01.m3u8
 https://stream-01.sg1.dailymotion.com/sec(hq_e0q5VHX_FvDCk_Uz4G1fjSsfKPKn00K0ssHMbAYjfzrX5HnHtLdQyI2iCuHBT)/dm/3/x6pz4sa/d/live-4.m3u8
 
 #EXTINF:9 tvg-id="GTV.id"tvg-name="GTV" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_81.png" ,GTV
-#EXT-X-STREAM-INF:BANDWIDTH=144000,CODECS="mp4a.40.2",RESOLUTION=1280x720,CLOSED-CAPTIONS=NONE
+#EXT-X-STREAM-INF:BANDWIDTH=144000,CODECS="mp4a.40.2"
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 https://d322b885qvsbxg.cloudfront.net/GTV2021.m3u8
 
