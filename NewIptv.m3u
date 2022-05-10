@@ -150,5 +150,5 @@ https://ssfm.siar.us/ssfm/live/playlist.m3u8
 
 #EXTINF:13 tvg-id="Coba TV"tvg-name="Coba TV" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_116.jpg" ,Coba TV
 #EXT-X-STREAM-INF:BANDWIDTH=144000,CODECS="mp4a.40.2",RESOLUTION=1980x1080
-#EXTVLCOPT:http-referrer=https://https://www.visionplus.id//
-https://visionplus-stream.visionplus.id/live/eds/TransTV-2/sa_hls/TransTV-2.m3u8
+#EXTVLCOPT:http-referrer=https://liveanevia.mncnow.id/
+https://liveanevia.mncnow.id/live/eds/TransTV-2/sa_dash_vmx/TransTV-2.mpd
