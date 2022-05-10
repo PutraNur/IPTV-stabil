@@ -149,5 +149,5 @@ https://live-production.secureswiftcontent.com/exp=1652028635~acl=/hls-p/ingest_
 https://ssfm.siar.us/ssfm/live/playlist.m3u8
 
 #EXTINF:13 tvg-id="Coba TV"tvg-name="Coba TV" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_116.jpg" ,Coba TV
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-https://liveanevia.mncnow.id/live/eds/TransTV-2/sa_dash_vmx/TransTV-2.mpd
+#EXTVLCOPT:http-referrer=https://www.useetv.com/
+https://cdn12jtedge.useetv.com/joss/133/transtv1080new/chunklist_w953373637_b1544100_sleng.m3u8?enc=hj5Rsx8qBGPxsxhI-179Sw&exp=1652152115&encp=nF5avYbJoSXi1JtUT4pYlg&expp=1652160815
