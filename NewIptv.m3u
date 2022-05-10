@@ -46,7 +46,7 @@ https://video.detik.com/trans7/smil:trans7.smil/chunklist_kamiselaluada_b744100_
 
 #EXTINF:13 tvg-id="NET.id"tvg-name="NET TV" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_116.jpg" ,NET TV
 #EXT-X-STREAM-INF:BANDWIDTH=144000,CODECS="mp4a.40.2",RESOLUTION=1280x720
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtu.be/7qAJ5exbTGA
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtu.be/7qAJ5exbTGA&quality=
 
 #EXTINF:14 tvg-id="INews.id"tvg-name="iNEWS TV" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_83.png" ,iNEWS TV
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
@@ -109,7 +109,7 @@ http://playlist.urfan.web.id/dr9445/h/h144/01.m3u8
 
 #EXTINF:33 tvg-id="RTV.id"tvg-name="RTV" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTw9AixXe5LFItm_ArefcMOxaCZaeUjboDNOq9PXw=s900-c-k-c0x00ffffff-no-rj" ,RTV
 #EXTVLCOPT:http-referrer=https://www.useetv.com/
-https://cdn13jtedge.useetv.com/joss/130/rtv/chunklist_w883481884_b1004100_sleng.m3u8?enc=d5I6xgP0JzE-U3ztY6gcsw&uid=&exp=1652011394
+https://cdn01-telkomsel-01.akamaized.net/Content/HLS/Live/Channel(41869351-4a9c-4e57-b54b-8cf5dfc919e1)/index.m3u8
 
 #EXTINF:34 tvg-id="TVRISportHD.id"tvg-name="TVRI SPORT HD" tvg-logo="https://yt3.ggpht.com/yvyw479QKvmzjT6dkHm1gUBf-Vq3jEFRh8lhh6NS4DCpMrZkWjGalFDvB5xoh4lREN_vA1xHrA=s900-c-k-c0x00ffffff-no-rj" ,TVRI SPORT HD
 http://118.97.50.107/Content/HLS/Live/Channel(TVRI4)/index.m3u8
@@ -131,9 +131,8 @@ https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(7a73ed02-e0de-4
 https://etslive-2-vidio-com.akamaized.net/exp=1652017902~acl=/hls-p/ingest_8237_*/*~hmac=692d270c3cf18510461947e378f4b490378d09c857afbd809bb04e41fc3390fb/hls-p/ingest_8237_720p/index.m3u8
 
 #EXTINF:38 tvg-id="Prambors"tvg-name="Prambors" tvg-logo="https://thumbor.prod.vid.id/LXg-Kd3Sea2o60Wvw82XXsnzTUw=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/7004/12f134.png" ,Prambors
-#EXT-X-STREAM-INF:BANDWIDTH=144000,CODECS="mp4a.40.2"
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
-https://live-production.secureswiftcontent.com/exp=1652022974~acl=/hls-p/ingest_7004_*/*~hmac=b3ca17309a7a850992c29583dddbb13dedf74551748f1369ada25184b12b8df9/hls-p/ingest_7004_480p/index.m3u8
+https://app-etslive-2.vidio.com/live/7004/master.m3u8
 
 #EXTINF:41 tvg-id="Gen FM Surabaya"tvg-name="Gen FM Surabaya" tvg-logo="https://thumbor.prod.vid.id/t0w0aCC9pRwfB9We3mLueL3S34E=/172x96/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7446/gen-fm-surabaya-1cafa7.jpg" ,Gen FM Surabaya
 #EXT-X-STREAM-INF:BANDWIDTH=144000,CODECS="mp4a.40.2"
@@ -151,5 +150,5 @@ https://ssfm.siar.us/ssfm/live/playlist.m3u8
 
 #EXTINF:13 tvg-id="Coba TV"tvg-name="Coba TV" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_116.jpg" ,Coba TV
 #EXT-X-STREAM-INF:BANDWIDTH=144000,CODECS="mp4a.40.2",RESOLUTION=1980x1080
-#EXTVLCOPT:http-referrer=https://maxstream.tv/
-https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(3ea35639-9807-470c-a701-50033b12abfb)/manifest.mpd
+#EXTVLCOPT:http-referrer=https://https://www.visionplus.id//
+https://visionplus-stream.visionplus.id/live/eds/TransTV-2/sa_hls/TransTV-2.m3u8
