@@ -45,7 +45,8 @@ https://stream-05.sg1.dailymotion.com/sec(hq_e0q5VHX_FvDCk_Uz4GyvdVHm1KedVlm_zU1
 https://video.detik.com/trans7/smil:trans7.smil/chunklist_kamiselaluada_b744100_sleng.m3u8
 
 #EXTINF:13 tvg-id="NET.id"tvg-name="NET TV" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_116.jpg" ,NET TV
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtu.be/7qAJ5exbTGA=best
+#EXT-X-STREAM-INF:BANDWIDTH=144000,CODECS="mp4a.40.2",RESOLUTION=1280x720
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtu.be/7qAJ5exbTGA
 
 #EXTINF:14 tvg-id="INews.id"tvg-name="iNEWS TV" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_83.png" ,iNEWS TV
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
@@ -146,5 +147,9 @@ https://live-production.secureswiftcontent.com/exp=1652028635~acl=/hls-p/ingest_
 
 #EXTINF:43 tvg-id="Suara Surabaya FM"tvg-name="Suara Surabaya FM" tvg-logo="https://live.staticflickr.com/69/199324240_7e0861bd2a_b.jpg" ,Suara Surabaya FM
 #EXT-X-STREAM-INF:BANDWIDTH=144000,CODECS="mp4a.40.2"
-https://ssfm.siar.us/ssfm/live/chunks.m3u8?nimblesessionid=7683063
+https://ssfm.siar.us/ssfm/live/playlist.m3u8
 
+#EXTINF:13 tvg-id="Coba TV"tvg-name="Coba TV" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_116.jpg" ,Coba TV
+#EXT-X-STREAM-INF:BANDWIDTH=144000,CODECS="mp4a.40.2",RESOLUTION=1980x1080
+#EXTVLCOPT:http-referrer=https://maxstream.tv/
+https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(3ea35639-9807-470c-a701-50033b12abfb)/manifest.mpd
