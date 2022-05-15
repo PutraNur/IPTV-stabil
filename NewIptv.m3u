@@ -47,7 +47,7 @@ https://video.detik.com/trans7/smil:trans7.smil/chunklist_kamiselaluada_b744100_
 
 #EXTINF:13 tvg-id="NET.id"tvg-name="NET TV" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_116.jpg" ,NET TV
 #EXT-X-STREAM-INF:BANDWIDTH=144000,CODECS="mp4a.40.2",RESOLUTION=1280x720
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtu.be/7qAJ5exbTGA&quality=
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtu.be/7qAJ5exbTGA
 
 #EXTINF:14 tvg-id="INews.id"tvg-name="iNEWS TV" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_83.png" ,iNEWS TV
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
